@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST1L05CPU33R
+D LDO Voltage Regulators Low Quiescent BiCMOS Voltage Regulator
+K
+F https://www.mouser.de/datasheet/2/389/st1l05-974244.pdf
+$ENDCMP
+#
+#End Doc Library

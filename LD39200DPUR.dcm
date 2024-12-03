@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD39200DPUR
+D LDO Voltage Regulators Linear Voltage Regulators & Vref
+K
+F https://componentsearchengine.com/Datasheets/1/LD39200DPUR.pdf
+$ENDCMP
+#
+#End Doc Library
