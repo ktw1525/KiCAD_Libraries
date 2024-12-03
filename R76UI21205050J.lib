@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model R76UI21205050J
+#/15370744/137422/2.50/2/2/Capacitor
+DEF R76UI21205050J C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "R76UI21205050J" 350 150 50 H V L CNN
+F2 "R76UI21205050J" 350 50 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_F3034_R76.pdf" 350 -50 50 H I L CNN
+F4 "R76, Film, Double Metallized Polypropylene, Automotive Grade, 0.012 uF, 5%, 700 VAC, 2000 VDC, 110C, -55C, 85C, 0.03 % , 100 GOhms, 9500 V/us, 10 nH, 2.5 g, 18mm, 13.5mm, 7.5mm, Lead Spacing = 15mm, 700" 350 -150 50 H I L CNN "Description"
+F5 "13.6" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "R76UI21205050J" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-R76UI21205050J" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/R76UI21205050J?qs=pUKx8fyJudBY3FBbA4Y5Kw%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

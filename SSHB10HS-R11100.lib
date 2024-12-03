@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SSHB10HS-R11100
+#/1577801/137422/2.50/4/2/Filter
+DEF SSHB10HS-R11100 FL 0 30 Y Y 1 F N
+F0 "FL" 950 300 50 H V L CNN
+F1 "SSHB10HS-R11100" 950 200 50 H V L CNN
+F2 "SSHB10HSR11100" 950 100 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_LF0037_SSHB10HS.pdf" 950 0 50 H I L CNN
+F4 "KEMET, SSHB10HS, AC Line Filters, Dual Mode, 250 VAC, 10 mH, 1.1 A, 120C, -25C, 350 mOhms, 300, 22mm, 17mm, 15.5mm, 3.5mm, 13mm, 10mm, 10 g" 950 -100 50 H I L CNN "Description"
+F5 "15.5" 950 -200 50 H I L CNN "Height"
+F6 "KEMET" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SSHB10HS-R11100" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-SSHB10HS-R11100" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/SSHB10HS-R11100?qs=r5DSvlrkXmJaXEoLwFinOw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SSHB10HS-R11100" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sshb10hs-r11100/kemet-corporation?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X N1_1 1 0 0 200 R 50 50 0 0 P
+X N1_2 2 0 -100 200 R 50 50 0 0 P
+X N2_1 3 1100 -100 200 L 50 50 0 0 P
+X N2_2 4 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

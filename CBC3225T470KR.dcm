@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CBC3225T470KR
+D 47 H Unshielded Drum Core, Wirewound Inductor 480 mA 871mOhm Max 1210 (3225 Metric)
+K
+F https://ds.yuden.co.jp/TYCOMPAS/eu/specSheet?pn=LLQPA322525T470KR
+$ENDCMP
+#
+#End Doc Library

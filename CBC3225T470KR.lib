@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CBC3225T470KR
+#/1232177/137422/2.50/2/3/Inductor
+DEF CBC3225T470KR L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "CBC3225T470KR" 650 150 50 H V L CNN
+F2 "INDC3225X270N" 650 50 50 H I L CNN
+F3 "https://ds.yuden.co.jp/TYCOMPAS/eu/specSheet?pn=LLQPA322525T470KR" 650 -50 50 H I L CNN
+F4 "47 H Unshielded Drum Core, Wirewound Inductor 480 mA 871mOhm Max 1210 (3225 Metric)" 650 -150 50 H I L CNN "Description"
+F5 "2.7" 650 -250 50 H I L CNN "Height"
+F6 "TAIYO YUDEN" 650 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CBC3225T470KR" 650 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "963-CBC3225T470KR" 650 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/CBC3225T470KR?qs=I6KAKw0tg2zVKrVmy3k%252BKw%3D%3D" 650 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CBC3225T470KR" 650 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cbc3225t470kr/taiyo-yuden" 650 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
+#
+#End Library
