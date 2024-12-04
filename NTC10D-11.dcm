@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NTC10D-11
-D 10 3A Plugin,P=7.5mm NTC Thermistors ROHS
-K
-F https://datasheetspdf.com/pdf-file/815098/VatroncisTechnologies/NTC10D-11/1
-$ENDCMP
-#
-#End Doc Library

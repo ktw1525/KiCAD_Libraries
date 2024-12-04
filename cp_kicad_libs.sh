@@ -2,7 +2,7 @@
 
 # 목적지 디렉터리 설정
 DEST_DIR="/home/ktw/Documents/GitHub/KiCAD_Libraries"
-
+DEST_DIR2="/home/ktw/Downloads"
 # 현재 경로에서 .tmp 디렉터리 생성 (존재하지 않으면)
 TARGET_DIR="./.tmp"
 if [ ! -d "$TARGET_DIR" ]; then
@@ -14,6 +14,12 @@ fi
 if [ ! -d "$DEST_DIR" ]; then
     mkdir "$DEST_DIR"
     echo "$DEST_DIR 디렉터리를 생성했습니다."
+fi
+
+# 목적지 디렉터리 생성 (존재하지 않으면)
+if [ ! -d "$DEST_DIR/3D" ]; then
+    mkdir "$DEST_DIR/3D"
+    echo "$DEST_DIR/3D 디렉터리를 생성했습니다."
 fi
 
 # 현재 경로에서 LIB_로 시작하는 .zip 파일 검색
@@ -44,7 +50,12 @@ for ZIP_FILE in "${ZIP_FILES[@]}"; do
 
     # .tmp/$PART/KiCad 안의 모든 파일을 DEST_DIR로 복사
     if [ -d "$TARGET_DIR/$PART/KiCad" ]; then
-        cp -rf "$TARGET_DIR/$PART/KiCad/"* "$DEST_DIR/"
+        cp -rf "$TARGET_DIR/$PART/KiCad/"*".lib" "$DEST_DIR/"
+        cp -rf "$TARGET_DIR/$PART/KiCad/"*".kicad_sym" "$DEST_DIR/"
+        cp -rf "$TARGET_DIR/$PART/KiCad/"*".dcm" "$DEST_DIR/"
+        cp -rf "$TARGET_DIR/$PART/KiCad/"*".kicad_mod" "$DEST_DIR2/"
+        cp -rf "$TARGET_DIR/$PART/KiCad/"*".mod" "$DEST_DIR2/"
+        cp -rf "$TARGET_DIR/$PART/3D/"* "$DEST_DIR/3D/"
         echo "$PART의 파일이 $DEST_DIR로 복사되었습니다."
     else
         echo "$TARGET_DIR/$PART/KiCad 디렉터리가 없습니다. 건너뜁니다."
@@ -55,5 +66,6 @@ for ZIP_FILE in "${ZIP_FILES[@]}"; do
     rm -rf "$TARGET_DIR/"*
 done
 rm -rf "$TARGET_DIR"
+rm -rf "$ZIP_FILES"
 # 최종적으로 .tmp 디렉터리 정리
 echo ".tmp 디렉터리를 정리했습니다."

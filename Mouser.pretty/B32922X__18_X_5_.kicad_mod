@@ -1,0 +1,237 @@
+(footprint "B32922X__18_X_5_"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "B32922X_(18_X_5)")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "9896aced-642d-4424-9e66-c53a2fbe9011")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "B32922X_(18_X_5)"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "36695bc8-4dd5-489b-af96-770e8eef69ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f24f95e-3a3e-48be-ad67-e03125cbcc0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fb3140e-3d56-4a39-bc39-28f47cdaa1a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6119684-9505-4f23-a34c-74ec5fe34ab4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.5 -2.5)
+		(end 16.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "376461bf-99ae-4c22-97a1-c37f65c278f0")
+	)
+	(fp_line
+		(start -1.5 2.5)
+		(end -1.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "654178be-de05-4384-a80d-c04510886d4d")
+	)
+	(fp_line
+		(start 16.5 -2.5)
+		(end 16.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0a7334b-eba5-44f1-893f-1860e0efad9a")
+	)
+	(fp_line
+		(start 16.5 2.5)
+		(end -1.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d98009b-25bc-48fb-952d-8c8459adc6c0")
+	)
+	(fp_circle
+		(center -2.35 0)
+		(end -2.35 0.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "82b3f5e4-8b82-4b04-99ab-d0a5ddf3cf30")
+	)
+	(fp_line
+		(start -3.25 -3.5)
+		(end 17.5 -3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "453037c7-71ad-4e59-95ba-6f65d03bb2a9")
+	)
+	(fp_line
+		(start -3.25 3.5)
+		(end -3.25 -3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6ab0dc76-2b31-4d6b-8732-7c4c1d0f7477")
+	)
+	(fp_line
+		(start 17.5 -3.5)
+		(end 17.5 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2546abe8-029a-449f-beaa-cc7d70c10cf5")
+	)
+	(fp_line
+		(start 17.5 3.5)
+		(end -3.25 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8d62e6b0-cabb-40be-9734-91a4284560fd")
+	)
+	(fp_line
+		(start -1.5 -2.5)
+		(end 16.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46e2b5a2-6a85-4cff-992d-845e3385c6db")
+	)
+	(fp_line
+		(start -1.5 2.5)
+		(end -1.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0021c1e0-1e07-4dd7-b721-459a220b75a9")
+	)
+	(fp_line
+		(start 16.5 -2.5)
+		(end 16.5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a12b2e38-d670-411c-8f1e-c6fa6c8c6905")
+	)
+	(fp_line
+		(start 16.5 2.5)
+		(end -1.5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "25eca6bb-e5f5-47f7-a0a8-e606d83d598b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "68961b74-aa5d-48ee-ba26-8c4aa91bf215")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d1032d28-daff-4bd9-8e1f-2c7123089a13")
+	)
+	(pad "2" thru_hole circle
+		(at 15 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d2d0fd59-8849-494f-90f0-eac7d33fc985")
+	)
+	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/B32922X2104K000.stp"
+		(offset
+			(xyz 7.510000116 0 5.110000057)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

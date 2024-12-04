@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM1085ISX-ADJ_NOPB
+D 3A Fixed / Adjustable Output Linear Regulator
+K
+F http://www.ti.com/lit/gpn/lm1085
+$ENDCMP
+#
+#End Doc Library

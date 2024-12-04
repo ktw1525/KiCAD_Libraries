@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBB02070C1004FCT00
+D Vishay MBB0207 Series Axial Thin Film Fixed Resistor 1M +/-1% 0.6W +/-50ppm/C
+K
+F https://www.mouser.com/datasheet/2/427/VISH_S_A0005972005_1-2569743.pdf
+$ENDCMP
+#
+#End Doc Library

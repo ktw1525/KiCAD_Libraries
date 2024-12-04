@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54S
+D Obsolete - Schottky Barrier Diode
+K
+F https://www.onsemi.com/download/data-sheet/pdf/BAT54S-D.pdf
+$ENDCMP
+#
+#End Doc Library

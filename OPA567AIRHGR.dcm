@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP OPA567AIRHGR
-D Rail-to-Rail I/O, 2A Power Amplifier
-K
-F http://www.ti.com/lit/gpn/OPA567
-$ENDCMP
-#
-#End Doc Library

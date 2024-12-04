@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SSHB10HS-R11100
-D KEMET, SSHB10HS, AC Line Filters, Dual Mode, 250 VAC, 10 mH, 1.1 A, 120C, -25C, 350 mOhms, 300, 22mm, 17mm, 15.5mm, 3.5mm, 13mm, 10mm, 10 g
-K
-F https://content.kemet.com/datasheets/KEM_LF0037_SSHB10HS.pdf
-$ENDCMP
-#
-#End Doc Library

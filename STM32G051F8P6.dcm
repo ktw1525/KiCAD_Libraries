@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G051F8P6
+D Mainstream Arm Cortex-M0+ 32-bit MCU, up to 64 KB Flash, 18 KB RAM, 2x USART, timers, ADC, DAC, comm. I/Fs, 1.7-3.6V
+K
+F https://www.st.com/resource/en/datasheet/stm32g051c6.pdf
+$ENDCMP
+#
+#End Doc Library

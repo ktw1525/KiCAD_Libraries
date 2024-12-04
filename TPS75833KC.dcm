@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS75833KC
+D Fast-Transient Response, 3A, Low-Dropout Voltage Regulators
+K
+F http://www.ti.com/lit/gpn/tps758
+$ENDCMP
+#
+#End Doc Library

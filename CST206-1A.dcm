@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CST206-1A
-D Current Transformer 1:100 0.58Ohm Prim. DCR 14000uH Prim. 11000mA Prim. 2 Terminal PC Pin Thru-Hole
-K
-F http://www.mouser.com/datasheet/2/410/media-1068020.pdf
-$ENDCMP
-#
-#End Doc Library

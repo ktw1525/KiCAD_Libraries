@@ -1,0 +1,258 @@
+(footprint "R76UI21205050J"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "R76UI21205050J-1")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at 7.5 0 0)
+		(layer "F.SilkS")
+		(uuid "31017537-df11-4ef7-878e-797fb08bed68")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "R76UI21205050J"
+		(at 7.5 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "21bc0650-977e-4310-8529-9b6b0c53749e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad73850b-1706-445a-8d88-d9c3a0076c6a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcd42e84-607c-4358-9faa-a911b99fc389")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50ef2e53-8328-487a-9a68-fa471206429a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(fp_line
+		(start -2.1 0)
+		(end -2.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f8a62f26-c61a-4395-b936-17f4e46b9680")
+	)
+	(fp_line
+		(start -2 0)
+		(end -2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7fcec333-4fef-43ee-837b-58f1a9073757")
+	)
+	(fp_line
+		(start -1.5 -3.75)
+		(end 16.5 -3.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3ab62d8-12bf-4559-b34e-2536638ddb73")
+	)
+	(fp_line
+		(start -1.5 3.75)
+		(end -1.5 -3.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "caaad326-6e9f-45e5-929e-4db8f2143d8d")
+	)
+	(fp_line
+		(start 16.5 -3.75)
+		(end 16.5 3.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb4ee0c2-464f-4e67-984b-4ce620f12c8d")
+	)
+	(fp_line
+		(start 16.5 3.75)
+		(end -1.5 3.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31d493c0-bc08-417f-8039-89a5410ee656")
+	)
+	(fp_arc
+		(start -2.1 0)
+		(mid -2.05 -0.05)
+		(end -2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd2060a3-e7ae-4581-8064-94bd69e72d36")
+	)
+	(fp_arc
+		(start -2 0)
+		(mid -2.05 0.05)
+		(end -2.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "161c5751-2088-4613-ab2e-dfe700e0b443")
+	)
+	(fp_line
+		(start -2.5 -4.75)
+		(end 17.5 -4.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "230113d0-4001-4a9f-a492-aa802ab832f0")
+	)
+	(fp_line
+		(start -2.5 4.75)
+		(end -2.5 -4.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "525a6b84-6df7-4db4-b2d1-04b53ff87d2c")
+	)
+	(fp_line
+		(start -1.5 -3.75)
+		(end -1.5 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "26607f55-df7a-4310-bd1c-ea97d4d23762")
+	)
+	(fp_line
+		(start -1.5 3.75)
+		(end 16.5 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "476fc920-469c-4274-8a19-eb1998222624")
+	)
+	(fp_line
+		(start 16.5 -3.75)
+		(end -1.5 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9b2d0f55-422c-4d53-b88b-835ada14654c")
+	)
+	(fp_line
+		(start 16.5 3.75)
+		(end 16.5 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a1415759-5d5b-47fc-b322-3fee29afb869")
+	)
+	(fp_line
+		(start 17.5 -4.75)
+		(end 17.5 4.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ce1d12de-b704-41f9-a792-68c588727008")
+	)
+	(fp_line
+		(start 17.5 4.75)
+		(end -2.5 4.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3a70e699-4709-42f8-8fb2-54ffdefb3ce9")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0 90)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "36ebcac3-d051-4f83-93c4-4632f5fd0abd")
+	)
+	(pad "2" thru_hole circle
+		(at 15 0 90)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "dae98a17-4910-4c40-9502-5a2d78da018d")
+	)
+	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/R76UI21205050J.stp"
+		(offset
+			(xyz -1.8 3.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

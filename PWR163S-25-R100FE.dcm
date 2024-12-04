@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PWR163S-25-R100FE
-D Res Thick Film 0.1 Ohm 1% 25W +/-100ppm/C D-Pak Gull Wing SMD Automotive T/R
-K
-F https://www.bourns.com/docs/Product-Datasheets/PWR163.pdf
-$ENDCMP
-#
-#End Doc Library
