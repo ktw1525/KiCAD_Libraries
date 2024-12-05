@@ -1664,7 +1664,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "D"
-			(at 19.05 7.62 0)
+			(at 6.096 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1673,7 +1673,7 @@
 			)
 		)
 		(property "Value" "BAT54S"
-			(at 19.05 5.08 0)
+			(at 6.096 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1702,7 +1702,7 @@
 			)
 		)
 		(property "Description" "Obsolete - Schottky Barrier Diode"
-			(at 0 0 0)
+			(at -0.762 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,20 +1780,167 @@
 				(hide yes)
 			)
 		)
-		(symbol "BAT54S_1_1"
-			(rectangle
-				(start 5.08 2.54)
-				(end 17.78 -5.08)
+		(symbol "BAT54S_0_1"
+			(polyline
+				(pts
+					(xy -5.08 3.81) (xy -5.0799 4.1707)
+				)
 				(stroke
-					(width 0.254)
+					(width 0)
 					(type default)
 				)
 				(fill
-					(type background)
+					(type none)
 				)
 			)
+			(polyline
+				(pts
+					(xy -5.08 3.81) (xy -2.54 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 5.08) (xy -3.81 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 5.08) (xy 3.81 5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 3.81) (xy -2.5426 3.3951)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 1.27) (xy 2.54 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 1.27) (xy 2.5401 1.6307)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 1.27) (xy 5.08 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 3.81) (xy 5.08 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 5.08) (xy 3.81 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 1.27) (xy 5.0774 0.8551)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 3.81) (xy 3.81 1.27) (xy 5.08 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 3.81) (xy -5.08 1.27) (xy -2.54 1.27) (xy -3.81 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "BAT54S_1_1"
 			(pin passive line
-				(at 0 0 0)
+				(at -3.81 -7.62 90)
 				(length 5.08)
 				(name "A"
 					(effects
@@ -1811,7 +1958,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
+				(at 3.81 -7.62 90)
 				(length 5.08)
 				(name "K"
 					(effects
@@ -1829,7 +1976,7 @@
 				)
 			)
 			(pin passive line
-				(at 22.86 0 180)
+				(at 0 10.16 270)
 				(length 5.08)
 				(name "A/K"
 					(effects
