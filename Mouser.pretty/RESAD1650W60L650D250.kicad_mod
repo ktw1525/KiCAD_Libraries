@@ -6,7 +6,7 @@
 	(descr "MBB/SMA 0207_2022")
 	(tags "Resistor")
 	(property "Reference" "R**"
-		(at 0 0 0)
+		(at 8.35 -2.475 0)
 		(layer "F.SilkS")
 		(uuid "259b8d3c-f147-42f4-bf9c-705eed2fe57d")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "RESAD1650W60L650D250"
-		(at 0 0 0)
+		(at 8.575 3 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "95bb7587-05aa-420d-8fb4-352d56b27bc8")

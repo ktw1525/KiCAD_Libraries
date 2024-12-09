@@ -6,7 +6,7 @@
 	(descr "1989447-2")
 	(tags "Connector")
 	(property "Reference" "J**"
-		(at 2.5 0.5 0)
+		(at 2.175 7.25 0)
 		(layer "F.SilkS")
 		(uuid "a5443806-780a-4464-b4dd-652026b30c66")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "1989447"
-		(at 2.5 0.5 0)
+		(at 2.65 -6.45 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "ad473fd9-17e3-49b4-9162-0148c56228ed")
@@ -228,7 +228,7 @@
 		(uuid "6aaffe81-e451-4e1e-bf14-2a99b33d1561")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 2.5 0.5 0)
+		(at 2.525 9.05 0)
 		(layer "F.Fab")
 		(uuid "a1f3eda2-0cb9-4767-b082-2d37946ef1f6")
 		(effects

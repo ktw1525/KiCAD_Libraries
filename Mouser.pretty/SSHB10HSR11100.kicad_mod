@@ -6,7 +6,7 @@
 	(descr "SSHB10HS-R11100-1")
 	(tags "Filter")
 	(property "Reference" "FL**"
-		(at 6.5 5 0)
+		(at 5.75 -4.975 0)
 		(layer "F.SilkS")
 		(uuid "52b65a81-3e59-475f-be3c-7dd21aadd3ed")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SSHB10HSR11100"
-		(at 6.5 5 0)
+		(at 6.575 7.65 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "268cabd9-86ae-492b-aede-0b0022b947fa")

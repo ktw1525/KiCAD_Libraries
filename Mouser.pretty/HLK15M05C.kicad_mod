@@ -6,7 +6,7 @@
 	(descr "HLK-15M05C-3")
 	(tags "Power Supply")
 	(property "Reference" "PS**"
-		(at 20.95 7.85 0)
+		(at 20.275 -9.1 0)
 		(layer "F.SilkS")
 		(uuid "b04e552e-4e7b-423d-a4bb-3bb4c9c73b96")
 		(effects

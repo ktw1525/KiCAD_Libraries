@@ -6,7 +6,7 @@
 	(descr "CP-8-11 (LFCSP_WD)")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at -0.025 -2.55 0)
 		(layer "F.SilkS")
 		(uuid "35bdeeb2-8ec7-40e8-bad7-55aead8a8689")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SON50P300X300X85-9N-D"
-		(at 0 0 0)
+		(at 1.475 3 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "d5cebacd-a364-45d6-86fd-5c8576512851")

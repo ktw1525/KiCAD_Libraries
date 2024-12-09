@@ -6,7 +6,7 @@
 	(descr "MFM-05-5-1")
 	(tags "Power Supply")
 	(property "Reference" "PS**"
-		(at 18.65 1.5 0)
+		(at 18.5 15.65 0)
 		(layer "F.SilkS")
 		(uuid "d56f16fc-7ee3-4d82-b253-2341a1ac2d9f")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "MFM055"
-		(at 18.65 1.5 0)
+		(at 18.8 -1.525 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "b123fd60-cbeb-4fbb-9443-cb6fa6003f12")
@@ -249,7 +249,7 @@
 		(uuid "af360cc4-afd4-470c-95d9-d2084e949d33")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 18.65 1.5 0)
+		(at 18.5 3.9 0)
 		(layer "F.Fab")
 		(uuid "cfc728c3-89e8-4386-bcc0-aff9b7352569")
 		(effects

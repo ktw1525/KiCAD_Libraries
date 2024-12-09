@@ -6,7 +6,7 @@
 	(descr "DFN8 (4 x 4 mm)")
 	(tags "Power Supply")
 	(property "Reference" "PS**"
-		(at 0 0 0)
+		(at 0.25 -3 0)
 		(layer "F.SilkS")
 		(uuid "0fa93989-06a7-478b-822f-a611234e4e82")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SON80P400X400X100-9N-D"
-		(at 0 0 0)
+		(at 0.05 3.2 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "ff1b001a-8c63-4840-a3a4-e028dfeda4c5")

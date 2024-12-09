@@ -6,7 +6,7 @@
 	(descr "GSB1C41110SSHR-1")
 	(tags "Connector")
 	(property "Reference" "J**"
-		(at 0 0 0)
+		(at -0.2 -5.175 0)
 		(layer "F.SilkS")
 		(uuid "5de0d358-1a22-46b9-be6c-e559c0566615")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "GSB1C41110SSHR"
-		(at 0 0 0)
+		(at -0.1 5.925 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "9cde8e46-596c-4cba-8cbd-493d4640d3d7")
@@ -77,23 +77,13 @@
 	)
 	(fp_line
 		(start -4.47 2.088)
-		(end -4.47 3.965)
+		(end -4.47 2.7)
 		(stroke
 			(width 0.2)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "f4fc6468-982a-4216-bfde-136de3af8772")
-	)
-	(fp_line
-		(start -4.47 3.965)
-		(end 4.47 3.965)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "4480c809-d28c-45f4-a5da-6716c4ed1f8d")
 	)
 	(fp_line
 		(start -4 -3.385)
@@ -156,7 +146,7 @@
 		(uuid "05edba2a-98a6-4bd5-aecf-1b243ee77d4f")
 	)
 	(fp_line
-		(start 4.47 3.965)
+		(start 4.47 2.7)
 		(end 4.47 2.088)
 		(stroke
 			(width 0.2)
@@ -279,7 +269,7 @@
 		(uuid "fa297bf0-fbf7-42df-9291-afa407cd05d9")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at -0.275 7.55 0)
 		(layer "F.Fab")
 		(uuid "b8f2c94b-8bf2-4c40-b565-04c37c4487ec")
 		(effects
@@ -304,14 +294,14 @@
 		(uuid "581c169d-9adf-43c8-9047-d3dfa0344906")
 	)
 	(pad "A1" smd rect
-		(at -3.2 -3.39)
-		(size 0.6 1.15)
+		(at -3.2 -3.445)
+		(size 0.6 1.04)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "43bbee99-d58c-4670-97aa-3b95ea3b7526")
 	)
 	(pad "A4" smd rect
-		(at -2.4 -3.39)
-		(size 0.6 1.15)
+		(at -2.4 -3.445)
+		(size 0.6 1.04)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "795a5a3b-b754-41e3-8620-0ae5a4f5c58f")
 	)
@@ -340,14 +330,14 @@
 		(uuid "afa74c28-95a5-4bbf-9f40-c283313a03e7")
 	)
 	(pad "A9" smd rect
-		(at 2.4 -3.39)
-		(size 0.6 1.15)
+		(at 2.4 -3.4325)
+		(size 0.6 1.065)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "d3edc821-7b19-4e7f-ab59-469ac11222e2")
 	)
 	(pad "A12" smd rect
-		(at 3.2 -3.39)
-		(size 0.6 1.15)
+		(at 3.2 -3.4325)
+		(size 0.6 1.065)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "1c94603b-872a-4052-bd67-b666d9661077")
 	)

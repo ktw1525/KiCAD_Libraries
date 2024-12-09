@@ -6,7 +6,7 @@
 	(descr "TSSOP20")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at -0.025 -4.55 0)
 		(layer "F.SilkS")
 		(uuid "bb573677-4233-415d-a3e9-bf9978aebc9a")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SOP65P640X120-20N"
-		(at 0 0 0)
+		(at 0.275 4.7 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "646a9b93-1049-4919-bdca-971db6e26cc7")

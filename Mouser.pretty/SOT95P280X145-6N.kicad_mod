@@ -6,7 +6,7 @@
 	(descr "SOT-23 - 1.45 mm max height")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0.15 -2.725 0)
 		(layer "F.SilkS")
 		(uuid "63f8cf9b-03fc-46a2-9d5f-4a842b1a7bb6")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SOT95P280X145-6N"
-		(at 0 0 0)
+		(at 0.025 2.95 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "2e8090b4-a14c-4764-9b56-b1d240788bec")

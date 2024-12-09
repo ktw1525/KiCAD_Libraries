@@ -6,7 +6,7 @@
 	(descr "ZMPT101B-4")
 	(tags "Transformer")
 	(property "Reference" "T**"
-		(at 4.65 6.35 0)
+		(at 4.375 15.75 0)
 		(layer "F.SilkS")
 		(uuid "e906a3e8-9b78-4243-a8e7-8e343e8024c7")
 		(effects

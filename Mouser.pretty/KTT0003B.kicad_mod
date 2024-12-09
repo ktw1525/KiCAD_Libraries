@@ -6,7 +6,7 @@
 	(descr "KTT0003B")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 3.448 -0.167 0)
+		(at 4.2 -6.15 0)
 		(layer "F.SilkS")
 		(uuid "9bed7c11-8f6a-4740-8df5-bd4887bff290")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "KTT0003B"
-		(at 3.448 -0.167 0)
+		(at 3.85 6.65 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "ed31744a-8496-4be9-9147-2c847a6333d1")
@@ -147,7 +147,7 @@
 		(uuid "4ecacd6a-cd4b-4bd4-96df-6709ad98a52d")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3.448 -0.167 0)
+		(at 4.175 8.85 0)
 		(layer "F.Fab")
 		(uuid "e627cf9c-687c-41c4-9d80-ff02e0382217")
 		(effects

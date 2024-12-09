@@ -6,7 +6,7 @@
 	(descr "QFN20_FFW")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0.025 3.725 0)
 		(layer "F.SilkS")
 		(uuid "7248f01c-5131-439c-9fa9-61c982bf2534")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "CP2102NA02GQFN20"
-		(at 0 0 0)
+		(at 0.175 5.425 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "5f8e1a7d-b668-4457-bf42-cb044abe3531")
@@ -188,7 +188,7 @@
 		(uuid "f60603ac-adac-4365-8308-2c094a24e8d5")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at -0.025 7.5 0)
 		(layer "F.Fab")
 		(uuid "1fce4f66-b286-483d-8897-5cc3552642da")
 		(effects

@@ -6,7 +6,7 @@
 	(descr "MOV-10D391K-2")
 	(tags "Varistor")
 	(property "Reference" "RV**"
-		(at 3.75 -0.02 0)
+		(at 3.7 4.1 0)
 		(layer "F.SilkS")
 		(uuid "1afdcd52-98df-463a-992a-0ff11d08c258")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "MOV10D391K"
-		(at 3.75 -0.02 0)
+		(at 3.95 -4.3 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "ba50caf8-75c3-46aa-b4a5-4ce6ccc3e3e1")
@@ -228,7 +228,7 @@
 		(uuid "da53381c-ab44-40e2-9897-4fef2ce8b68c")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3.75 -0.02 0)
+		(at 3.85 -6.25 0)
 		(layer "F.Fab")
 		(uuid "731df96c-7de0-49c5-af4f-bdded056986c")
 		(effects

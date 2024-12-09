@@ -6,7 +6,7 @@
 	(descr "R76UI21205050J-1")
 	(tags "Capacitor")
 	(property "Reference" "C**"
-		(at 7.5 0 0)
+		(at 7.425 -4.7 0)
 		(layer "F.SilkS")
 		(uuid "31017537-df11-4ef7-878e-797fb08bed68")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "R76UI21205050J"
-		(at 7.5 0 0)
+		(at 7.425 2.375 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "21bc0650-977e-4310-8529-9b6b0c53749e")

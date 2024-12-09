@@ -6,7 +6,7 @@
 	(descr "NTC10D-11-2")
 	(tags "Thermistor")
 	(property "Reference" "RT**"
-		(at 3.75 0 0)
+		(at 3.625 4.425 0)
 		(layer "F.SilkS")
 		(uuid "686e549d-71c1-46f8-bca1-1c7352fc0494")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "NTC10D11"
-		(at 3.75 0 0)
+		(at 3.575 -4.475 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "a28d1015-88dd-4189-89c6-a855126a1df3")
@@ -228,7 +228,7 @@
 		(uuid "ed35a615-d963-4772-b197-9eb424a90826")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3.75 0 0)
+		(at 3.625 -6.025 0)
 		(layer "F.Fab")
 		(uuid "fcab3eb7-3096-44e6-8624-1595a594b425")
 		(effects

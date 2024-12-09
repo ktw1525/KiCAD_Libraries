@@ -6,7 +6,7 @@
 	(descr "SOT-23")
 	(tags "Transistor BJT PNP")
 	(property "Reference" "Q**"
-		(at 0 0 0)
+		(at 0.025 -2.775 0)
 		(layer "F.SilkS")
 		(uuid "73ddf234-6c0a-4d0d-87eb-254ab96a4394")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SOT95P237X125-3N"
-		(at 0 0 0)
+		(at -0.15 2.675 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "568bea37-9f13-409a-aa7f-2ea42716e8c3")

@@ -6,7 +6,7 @@
 	(descr "TSSOP-20")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0.05 -4.65 0)
 		(layer "F.SilkS")
 		(uuid "c5e1f950-4a16-48fa-ae68-57ae8cbc3cd9")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "CLT34BT6"
-		(at 0 0 0)
+		(at -0.1 4.85 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "80223d53-c738-4f37-83b5-b0a3391a0899")
@@ -206,7 +206,7 @@
 		(uuid "2e44cfbb-bbc2-4a13-9726-3bcea901be89")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0.05 7.025 0)
 		(layer "F.Fab")
 		(uuid "2b6e1eb2-0103-4ede-b373-c87a58991a8b")
 		(effects

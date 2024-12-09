@@ -6,7 +6,7 @@
 	(descr "DFN")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0.3 -2.575 0)
 		(layer "F.SilkS")
 		(uuid "9df95d1e-8d01-44b8-bc7f-9e6bbdf8eae6")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SON95P300X300X100-7N-D"
-		(at 0 0 0)
+		(at 0.25 2.925 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "3967b661-45f2-4fbc-b6d8-31a565847022")
@@ -167,7 +167,7 @@
 		(uuid "b5f98d48-2a54-407d-8435-60ef7ec72589")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0.35 2.725 0)
 		(layer "F.Fab")
 		(uuid "54b2d71e-dc50-416a-b580-8571bfc9f311")
 		(effects

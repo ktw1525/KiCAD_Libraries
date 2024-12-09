@@ -6,7 +6,7 @@
 	(descr "SOT−23 CASE 318BM ISSUE O-1")
 	(tags "Schottky Diode")
 	(property "Reference" "D**"
-		(at 0 0 0)
+		(at -0.075 -2.625 0)
 		(layer "F.SilkS")
 		(uuid "3c97979b-6d95-4d5e-a185-136f8e4e3560")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "SOT95P240X120-3N"
-		(at 0 0 0)
+		(at 0.05 2.85 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "c3e6a67f-e982-4283-9c96-596d71935bf7")

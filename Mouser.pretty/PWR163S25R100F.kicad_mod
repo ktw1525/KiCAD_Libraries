@@ -6,7 +6,7 @@
 	(descr "PWR163S-25-R100F-1")
 	(tags "Resistor")
 	(property "Reference" "R**"
-		(at 0 1.922 0)
+		(at -0.15 -6.65 0)
 		(layer "F.SilkS")
 		(uuid "0e46ea45-8452-45f7-87bb-684aa583db42")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "PWR163S25R100F"
-		(at 0 1.922 0)
+		(at 0.3 11.05 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "735a5b8c-7bca-451f-b644-6b4787777910")
@@ -209,7 +209,7 @@
 		(uuid "190a8639-9707-4528-bb73-cca27ee34b6e")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 1.922 0)
+		(at -0.5 12.8 0)
 		(layer "F.Fab")
 		(uuid "c2cf6ab8-1a00-4d16-a3de-b6c3398dca4b")
 		(effects

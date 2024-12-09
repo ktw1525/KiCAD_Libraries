@@ -6,7 +6,7 @@
 	(descr "KV (R-PZFM-T11)")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 9.5 -11.1 0)
 		(layer "F.SilkS")
 		(uuid "6760dfc7-c3c2-4ada-b5be-4d23beb10d69")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "TO170P462X2002X2166-11P"
-		(at 0 0 0)
+		(at 8 2.7 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "bf707f95-29cb-4eb4-a3b8-4c62f521481c")

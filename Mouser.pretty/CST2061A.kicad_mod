@@ -6,7 +6,7 @@
 	(descr "CST206-1A")
 	(tags "Transformer")
 	(property "Reference" "T**"
-		(at 5.626 0 0)
+		(at 5.725 -7.525 0)
 		(layer "F.SilkS")
 		(uuid "1e5cf169-16cf-4684-b1e2-9a8cfef4342a")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "CST2061A"
-		(at 5.626 0 0)
+		(at 4.775 8 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "9eee65bd-27cf-45e9-8917-bf840602670b")
@@ -248,7 +248,7 @@
 		(uuid "dda0d98e-3059-4926-a221-1bc48389b151")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 5.626 0 0)
+		(at 6 2.65 0)
 		(layer "F.Fab")
 		(uuid "c97d7d2c-529c-4da7-aaeb-2bbf1f8b1555")
 		(effects

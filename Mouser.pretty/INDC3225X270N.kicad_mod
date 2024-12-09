@@ -6,7 +6,7 @@
 	(descr "1210 (3225 Metric)")
 	(tags "Inductor")
 	(property "Reference" "L**"
-		(at 0 0 0)
+		(at -0.125 2.525 0)
 		(layer "F.SilkS")
 		(uuid "b439af9e-e5ed-4ee0-898e-1be2df67bb1d")
 		(effects

@@ -6,7 +6,7 @@
 	(descr "B32922X_(18_X_5)")
 	(tags "Capacitor")
 	(property "Reference" "C**"
-		(at 0 0 0)
+		(at 7.875 5 0)
 		(layer "F.SilkS")
 		(uuid "a5527eb6-e0f1-4c3f-900b-ecf978130fed")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "B32922X_(18_X_5)"
-		(at 0 0 0)
+		(at 6.7 -5.025 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "bf02bb5d-7aba-402e-ade0-7795ccfa9749")
