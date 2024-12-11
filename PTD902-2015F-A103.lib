@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PTD902-2015F-A103
+#/919722/137422/2.50/6/4/Variable Resistor
+DEF PTD902-2015F-A103 VR 0 30 Y Y 1 F N
+F0 "VR" 1250 300 50 H V L CNN
+F1 "PTD902-2015F-A103" 1250 200 50 H V L CNN
+F2 "PTD9022015FA103" 1250 100 50 H I L CNN
+F3 "https://www.mouser.co.uk/datasheet/2/54/ptd90-777943.pdf" 1250 0 50 H I L CNN
+F4 "Bourns Audio Potentiometer 8-Gang, PTD902-2015F-A103" 1250 -100 50 H I L CNN "Description"
+F5 "11.9" 1250 -200 50 H I L CNN "Height"
+F6 "Bourns" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PTD902-2015F-A103" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-PTD902-2015FA103" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/PTD902-2015F-A103?qs=X8nz4ozed5gCk5%2F1O4tbLA%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PTD902-2015F-A103" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ptd902-2015f-a103/bourns?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CCW_1 1 0 -200 200 R 50 50 0 0 P
+X WIPER_1 2 0 -100 200 R 50 50 0 0 P
+X CW_1 3 0 0 200 R 50 50 0 0 P
+X CCW_2 4 1400 -200 200 L 50 50 0 0 P
+X WIPER_2 5 1400 -100 200 L 50 50 0 0 P
+X CW_2 6 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

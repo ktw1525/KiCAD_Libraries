@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA388IDBVR
+D Texas Instruments 10MHz, CMOS, Zero-Drift, Zero-Crossover, True RRIO Precision Operational Amplifier
+K
+F http://www.ti.com/product/OPA388/datasheet?keyMatch=opa388&tisearch=Search-EN-Everything
+$ENDCMP
+#
+#End Doc Library
