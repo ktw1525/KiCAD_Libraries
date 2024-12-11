@@ -6,7 +6,7 @@
 	(descr "PTD902-2015K-C504-2")
 	(tags "Variable Resistor")
 	(property "Reference" "VR**"
-		(at 7.675 -1.925 0)
+		(at 7.675 -7 0)
 		(layer "F.SilkS")
 		(uuid "245a9ba6-cbce-4daf-9026-99d7cbc7e738")
 		(effects
@@ -126,16 +126,6 @@
 		(uuid "e1a08887-eab5-45f7-873f-34263d7ce9ea")
 	)
 	(fp_line
-		(start 5 -5.5)
-		(end 20 -5.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "69840fd2-bf80-4e8d-9448-868347b9cc60")
-	)
-	(fp_line
 		(start 5 0.5)
 		(end 5 -5.5)
 		(stroke
@@ -154,26 +144,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "8f4b5853-88d2-427a-ac79-9e20cf843d1a")
-	)
-	(fp_line
-		(start 20 -5.5)
-		(end 20 0.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "a010cd06-b8c8-45b9-9773-c36747e30000")
-	)
-	(fp_line
-		(start 20 0.5)
-		(end 5 0.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "5440be4d-6d05-4854-a308-678d47a37ea5")
 	)
 	(fp_arc
 		(start 0 3.3)
@@ -312,6 +282,16 @@
 		(start 5 -5.5)
 		(end 20 -5.5)
 		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "69840fd2-bf80-4e8d-9448-868347b9cc60")
+	)
+	(fp_line
+		(start 5 -5.5)
+		(end 20 -5.5)
+		(stroke
 			(width 0.2)
 			(type solid)
 		)
@@ -352,11 +332,31 @@
 		(start 20 -5.5)
 		(end 20 0.5)
 		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a010cd06-b8c8-45b9-9773-c36747e30000")
+	)
+	(fp_line
+		(start 20 -5.5)
+		(end 20 0.5)
+		(stroke
 			(width 0.2)
 			(type solid)
 		)
 		(layer "F.Fab")
 		(uuid "fe98c0dd-1283-4e06-938f-6ef52366091f")
+	)
+	(fp_line
+		(start 20 0.5)
+		(end 5 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5440be4d-6d05-4854-a308-678d47a37ea5")
 	)
 	(fp_line
 		(start 20 0.5)
