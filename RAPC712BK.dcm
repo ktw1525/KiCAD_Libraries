@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAPC712BK
+D 2.5mm locking DC PCB mount socket 2.5mm Right Angle PCB Mount DC Power Socket 5A, Silver Plate
+K
+F http://www.switchcraft.com/Drawings/rapc712x_cd.pdf
+$ENDCMP
+#
+#End Doc Library
