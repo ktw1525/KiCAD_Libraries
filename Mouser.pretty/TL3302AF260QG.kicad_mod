@@ -311,7 +311,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "739fdfc3-958e-45d3-93b0-893341238261")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/TL3302AF260QG.stp"
+	(model "${KICAD_GITHUB_DIR}/TL3302AF260QG.stp"
 		(offset
 			(xyz 0.009999999626 0.319999988 0.3699999992)
 		)

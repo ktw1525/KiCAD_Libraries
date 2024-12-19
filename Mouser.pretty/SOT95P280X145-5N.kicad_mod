@@ -240,7 +240,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "6972e9a0-4f5b-4500-945d-7ccfc637b337")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/OPA388IDBVR.stp"
+	(model "${KICAD_GITHUB_DIR}/OPA388IDBVR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

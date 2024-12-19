@@ -257,7 +257,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "e6d37f1c-c6c7-4411-b873-54a2f1e757e9")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/OPA567AIRHGR.stp"
+	(model "${KICAD_GITHUB_DIR}/OPA567AIRHGR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

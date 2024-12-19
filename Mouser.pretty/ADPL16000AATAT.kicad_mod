@@ -246,7 +246,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "14223fee-a432-42f2-85a0-c21c53ab2a17")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/ADPL16000AATA+T.stp"
+	(model "${KICAD_GITHUB_DIR}/ADPL16000AATA+T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -542,7 +542,7 @@
 		(remove_unused_layers no)
 		(uuid "8d579738-11a1-4c9c-bb12-5ac6c1101bf7")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/PTD901-1015F-A203.stp"
+	(model "${KICAD_GITHUB_DIR}/PTD901-1015F-A203.stp"
 		(offset
 			(xyz 16.629999 2.73 6.41)
 		)

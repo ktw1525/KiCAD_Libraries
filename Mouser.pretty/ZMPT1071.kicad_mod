@@ -281,7 +281,7 @@
 		(remove_unused_layers no)
 		(uuid "69561dcb-1682-4b21-94eb-47d8174c7c1d")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/ZMPT107-1.stp"
+	(model "${KICAD_GITHUB_DIR}/ZMPT107-1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

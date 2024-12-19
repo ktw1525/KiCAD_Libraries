@@ -247,7 +247,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "dfc49d67-9b63-4002-839b-f02b658c45ad")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/REF35160QDBVR.stp"
+	(model "${KICAD_GITHUB_DIR}/REF35160QDBVR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

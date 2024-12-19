@@ -169,7 +169,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "6bf5986a-1945-4a40-9f88-e5804c2e4ba9")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/744770218.stp"
+	(model "${KICAD_GITHUB_DIR}/744770218.stp"
 		(offset
 			(xyz 0 0 0)
 		)

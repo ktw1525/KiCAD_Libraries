@@ -219,7 +219,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "e571eb7c-de22-4de0-ad36-e4322afe3832")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/ST1L05CPU33R.stp"
+	(model "${KICAD_GITHUB_DIR}/ST1L05CPU33R.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -438,7 +438,7 @@
 			)
 		)
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/1054500101.stp"
+	(model "${KICAD_GITHUB_DIR}/1054500101.stp"
 		(offset
 			(xyz 0 0.2 1.6)
 		)

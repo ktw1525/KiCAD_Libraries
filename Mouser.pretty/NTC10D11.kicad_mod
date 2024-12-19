@@ -254,7 +254,7 @@
 		(remove_unused_layers no)
 		(uuid "6784f96d-1861-480d-ad0e-bdcf0eaa817c")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/NTC10D-11.stp"
+	(model "${KICAD_GITHUB_DIR}/NTC10D-11.stp"
 		(offset
 			(xyz 0 0 0)
 		)

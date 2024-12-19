@@ -324,7 +324,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "19b3b853-8c29-4f3d-8f94-552ca8b04058")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/CP2102N-A02-GQFN20.stp"
+	(model "${KICAD_GITHUB_DIR}/CP2102N-A02-GQFN20.stp"
 		(offset
 			(xyz 0 0 0.7499999887)
 		)

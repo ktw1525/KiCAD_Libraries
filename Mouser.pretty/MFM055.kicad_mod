@@ -291,7 +291,7 @@
 		(remove_unused_layers no)
 		(uuid "5d0416fa-b2d1-4e85-90e5-72ca5feb0ac6")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/MFM-05-5.stp"
+	(model "${KICAD_GITHUB_DIR}/MFM-05-5.stp"
 		(offset
 			(xyz 0 0 0)
 		)

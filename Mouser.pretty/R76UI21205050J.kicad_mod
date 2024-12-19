@@ -244,7 +244,7 @@
 		(remove_unused_layers no)
 		(uuid "dae98a17-4910-4c40-9502-5a2d78da018d")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/R76UI21205050J.stp"
+	(model "${KICAD_GITHUB_DIR}/R76UI21205050J.stp"
 		(offset
 			(xyz -1.8 3.8 0)
 		)

@@ -389,7 +389,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "0a22e1d0-9855-4a6d-8501-e321e5b1b7bf")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/GSB1C41110SSHR.stp"
+	(model "${KICAD_GITHUB_DIR}/GSB1C41110SSHR.stp"
 		(offset
 			(xyz 0 6.820000069 1.539999939)
 		)

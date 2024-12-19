@@ -169,7 +169,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "e270877e-b56f-47f9-854a-d78be1ca7152")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/CBC3225T470KR.stp"
+	(model "${KICAD_GITHUB_DIR}/CBC3225T470KR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

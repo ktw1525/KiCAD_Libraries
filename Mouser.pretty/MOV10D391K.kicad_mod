@@ -254,7 +254,7 @@
 		(remove_unused_layers no)
 		(uuid "bf3dd245-baad-4e6d-851f-d97f107f1c02")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/MOV-10D391K.stp"
+	(model "${KICAD_GITHUB_DIR}/MOV-10D391K.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -270,7 +270,7 @@
 		(remove_unused_layers no)
 		(uuid "2a662934-855e-45d4-a235-28177f98bc52")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/SSHB10HS-R11100.stp"
+	(model "${KICAD_GITHUB_DIR}/SSHB10HS-R11100.stp"
 		(offset
 			(xyz 12.48999958 -9.749999854 8.999999865)
 		)

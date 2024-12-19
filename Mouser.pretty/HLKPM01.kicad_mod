@@ -270,7 +270,7 @@
 		(remove_unused_layers no)
 		(uuid "dfb892fe-9b70-4942-a8d7-5471d5b0e113")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/HLK-PM01.stp"
+	(model "${KICAD_GITHUB_DIR}/HLK-PM01.stp"
 		(offset
 			(xyz 14.69999959 -2.499999962 14.99999977)
 		)

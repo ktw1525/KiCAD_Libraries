@@ -213,7 +213,7 @@
 		(remove_unused_layers no)
 		(uuid "f685b9b8-8fab-4670-bcaa-282b64d17d7f")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/B32922X2104K000.stp"
+	(model "${KICAD_GITHUB_DIR}/B32922X2104K000.stp"
 		(offset
 			(xyz 7.5 0 5.2)
 		)

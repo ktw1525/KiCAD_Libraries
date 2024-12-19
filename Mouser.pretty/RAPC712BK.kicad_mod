@@ -483,7 +483,7 @@
 		(remove_unused_layers no)
 		(uuid "4c857269-a675-48e5-97d8-f8e61832d078")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/RAPC712BK.stp"
+	(model "${KICAD_GITHUB_DIR}/RAPC712BK.stp"
 		(offset
 			(xyz 0 0 0)
 		)

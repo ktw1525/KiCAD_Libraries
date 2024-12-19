@@ -274,7 +274,7 @@
 		(remove_unused_layers no)
 		(uuid "b89b21fe-bbe7-42f6-b71a-8c300eb47ac6")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/CST206-1A.stp"
+	(model "${KICAD_GITHUB_DIR}/CST206-1A.stp"
 		(offset
 			(xyz 5.699999724 -5.380000034 15.41999984)
 		)

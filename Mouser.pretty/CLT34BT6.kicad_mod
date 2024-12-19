@@ -336,7 +336,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "b037e78b-50de-4326-ad19-f8ab53858766")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/STM32G030F6P6TR.stp"
+	(model "${KICAD_GITHUB_DIR}/STM32G030F6P6TR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -281,7 +281,7 @@
 		(remove_unused_layers no)
 		(uuid "33f28df1-563a-47d0-ac59-e6b1d4c80f5e")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/HLK-15M05C.stp"
+	(model "${KICAD_GITHUB_DIR}/HLK-15M05C.stp"
 		(offset
 			(xyz 0 0 0)
 		)

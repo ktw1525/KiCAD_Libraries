@@ -274,7 +274,7 @@
 		(remove_unused_layers no)
 		(uuid "97c73eda-7bbc-46a0-82e0-25af8be43fc1")
 	)
-	(model "/home/ktw/Documents/GitHub/KiCAD_Libraries/3D/OPA541AP.stp"
+	(model "${KICAD_GITHUB_DIR}/OPA541AP.stp"
 		(offset
 			(xyz 8.5 9.5 18)
 		)
