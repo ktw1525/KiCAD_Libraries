@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model IRM-15-5
+#/878574/137422/2.50/4/4/Power Supply
+DEF IRM-15-5 PS 0 30 Y Y 1 F N
+F0 "PS" 850 300 50 H V L CNN
+F1 "IRM-15-5" 850 200 50 H V L CNN
+F2 "IRM-15-5" 850 100 50 H I L CNN
+F3 "https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/IRM-15-spec.pdf" 850 0 50 H I L CNN
+F4 "AC/DC Power Modules 5V 3A 15W 85-264Vin Encap PS" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "Mean Well" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "IRM-15-5" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "709-IRM15-5" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/MEAN-WELL/IRM-15-5?qs=WkdRfq4wf1Mjg2KEjtgXTQ%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "IRM-15-5" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/irm-15-5/mean-well-enterprises?utm_currency=USD&region=europe" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X AC/N 1 0 0 200 R 50 50 0 0 P
+X AC/L 2 0 -100 200 R 50 50 0 0 P
+X -V 3 1000 -100 200 L 50 50 0 0 P
+X +V 4 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

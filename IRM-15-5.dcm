@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRM-15-5
+D AC/DC Power Modules 5V 3A 15W 85-264Vin Encap PS
+K
+F https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/IRM-15-spec.pdf
+$ENDCMP
+#
+#End Doc Library
