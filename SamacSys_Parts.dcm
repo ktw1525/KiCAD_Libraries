@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP CP2102N-A02-GQFN28R
+D USB Interface IC USB to UART bridge - QFN28
+K
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP B82730U3451A020
+D Power Line Chokes, L=10mH  Rated current=0.45A, LxWxT:16.5mmx11mmx16.5mm.,
+K
+F https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/db/ind_2008/b82730u_g.pdf
+$ENDCMP
+#
+$CMP HLK-5M05
+D 5W ultra-compact power module HLK-5M05
+K
+F http://www.hlktech.net/product_detail.php?ProId=60
+$ENDCMP
+#
+$CMP SGECL01-01-1000
+D SIM Cards Global Com eSIM 1K pcs (plan01s)
+K
+F https://www.soracom.io/wp-content/uploads/2024/03/Soracom_Global_Multicarrier_eSIM_Datasheet.pdf
+$ENDCMP
+#
+$CMP TLV62065DSGR
+D 3MHz 2A Step Down Converter in 2x2 SON Package
+K
+F http://www.ti.com/lit/gpn/TLV62065
+$ENDCMP
+#
+$CMP MAKK2016T1R5M
+D Fixed Inductors 0806 1.5uH 130mOhms +/-20%Tol 1.6A HiCur
+K
+F https://componentsearchengine.com/Datasheets/1/MAKK2016T1R5M.pdf
+$ENDCMP
+#
+#End Doc Library
