@@ -42,4 +42,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/MAKK2016T1R5M.pdf
 $ENDCMP
 #
+$CMP MOV-10D391KK
+D 10mm Radial Disc MOV - Kinked Leads, Bulk
+K
+F https://www.bourns.com/docs/product-datasheets/mov10d.pdf
+$ENDCMP
+#
 #End Doc Library
