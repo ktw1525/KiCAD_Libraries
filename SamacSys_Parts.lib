@@ -221,4 +221,515 @@ P 4 0 1 6 150 -100 250 -100 450 100 550 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model T520H108M006ATE055
+#/981814/137422/2.50/2/2/Capacitor Polarised
+DEF T520H108M006ATE055 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "T520H108M006ATE055" 350 150 50 H V L CNN
+F2 "T520H" 350 50 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_T2076_T52X-530.pdf" 350 -50 50 H I L CNN
+F4 "T520, Tantalum, Polymer Tantalum, Commercial Grade, 1,000 uF, 20%, 6.3 VDC, 85C, -55C, 85C, SMD, Polymer, Molded, Low Profile/ESR, NonCombustible, 2,000 Hrs, 20 % , 55 mOhms, 630 uA, 384.64 mg, 7360, 1.9mm, Height Max = 2mm, 1000, 52  Weeks" 350 -150 50 H I L CNN "Description"
+F5 "2" 350 -250 50 H I L CNN "Height"
+F6 "80-T520H108M6ATE55" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/KEMET/T520H108M006ATE055?qs=AOQ1XB71r6rKyXas%252BrQCSw%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "KEMET" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "T520H108M006ATE055" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model LMV324TSG-13
+#/441288/137422/2.50/14/2/Integrated Circuit
+DEF LMV324TSG-13 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "LMV324TSG-13" 950 200 50 H V L CNN
+F2 "SOP65P640X120-14N" 950 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/LMV321_358.pdf" 950 0 50 H I L CNN
+F4 "DiodesZetex LMV324TSG-13, Quad Low Noise Op Amp, 1MHz Rail-Rail, 2.7  5.5 V, 14-Pin TSSOP" 950 -100 50 H I L CNN "Description"
+F5 "1.2" 950 -200 50 H I L CNN "Height"
+F6 "621-LMV324TSG-13" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/LMV324TSG-13?qs=GWgl%252BsiMZr8lRTsKfulbXw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LMV324TSG-13" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUTA 1 0 0 200 R 50 50 0 0 P
+X INA- 2 0 -100 200 R 50 50 0 0 P
+X INA+ 3 0 -200 200 R 50 50 0 0 P
+X V+ 4 0 -300 200 R 50 50 0 0 P
+X INB+ 5 0 -400 200 R 50 50 0 0 P
+X INB- 6 0 -500 200 R 50 50 0 0 P
+X OUTB 7 0 -600 200 R 50 50 0 0 P
+X OUTD 14 1100 0 200 L 50 50 0 0 P
+X IND- 13 1100 -100 200 L 50 50 0 0 P
+X IND+ 12 1100 -200 200 L 50 50 0 0 P
+X V- 11 1100 -300 200 L 50 50 0 0 P
+X INC+ 10 1100 -400 200 L 50 50 0 0 P
+X INC- 9 1100 -500 200 L 50 50 0 0 P
+X OUTC 8 1100 -600 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TXS0108EPWR
+#/232891/137422/2.50/20/3/Integrated Circuit
+DEF TXS0108EPWR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TXS0108EPWR" 950 200 50 H V L CNN
+F2 "SOP65P640X120-20N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/txs0108e.pdf" 950 0 50 H I L CNN
+F4 "TXS0108EPWR, Voltage Level Translator, Open Drain 1.2  3.6 V, 1.65  5.5 V 20-Pin TSSOP" 950 -100 50 H I L CNN "Description"
+F5 "1.2" 950 -200 50 H I L CNN "Height"
+F6 "595-TXS0108EPWR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXS0108EPWR?qs=IUbkBnfnSQLgiWtCbWtYOw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TXS0108EPWR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A1 1 0 0 200 R 50 50 0 0 P
+X VCCA 2 0 -100 200 R 50 50 0 0 P
+X A2 3 0 -200 200 R 50 50 0 0 P
+X A3 4 0 -300 200 R 50 50 0 0 P
+X A4 5 0 -400 200 R 50 50 0 0 P
+X A5 6 0 -500 200 R 50 50 0 0 P
+X A6 7 0 -600 200 R 50 50 0 0 P
+X A7 8 0 -700 200 R 50 50 0 0 P
+X A8 9 0 -800 200 R 50 50 0 0 P
+X OE 10 0 -900 200 R 50 50 0 0 P
+X B1 20 1100 0 200 L 50 50 0 0 P
+X VCCB 19 1100 -100 200 L 50 50 0 0 P
+X B2 18 1100 -200 200 L 50 50 0 0 P
+X B3 17 1100 -300 200 L 50 50 0 0 P
+X B4 16 1100 -400 200 L 50 50 0 0 P
+X B5 15 1100 -500 200 L 50 50 0 0 P
+X B6 14 1100 -600 200 L 50 50 0 0 P
+X B7 13 1100 -700 200 L 50 50 0 0 P
+X B8 12 1100 -800 200 L 50 50 0 0 P
+X GND 11 1100 -900 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ESD9B5.0ST5G
+#/224673/137422/2.50/2/3/Diode
+DEF ESD9B5.0ST5G D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "ESD9B5.0ST5G" 450 100 50 H V L CNN
+F2 "SODFL1006X40N" 450 0 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/ESD9B-D.PDF" 450 -100 50 H I L CNN
+F4 "ON SEMICONDUCTOR - ESD9B5.0ST5G - DIODE, TVS, 5V, SOD-923" 450 -200 50 H I L CNN "Description"
+F5 "0.4" 450 -300 50 H I L CNN "Height"
+F6 "863-ESD9B5.0ST5G" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/ESD9B5.0ST5G?qs=HL4IEvuNMQqfrGPZiLZXfQ%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "ESD9B5.0ST5G" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model STM32G0B0CET6
+#/14660940/137422/2.50/48/3/Integrated Circuit
+DEF STM32G0B0CET6 IC 0 30 Y Y 1 F N
+F0 "IC" 1850 600 50 H V L CNN
+F1 "STM32G0B0CET6" 1850 500 50 H V L CNN
+F2 "QFP50P900X900X160-48N" 1850 400 50 H I L CNN
+F3 "" 1850 300 50 H I L CNN
+F4 "MCU 32-Bit Arm Cortex-M0+ RISC 512KB KB Flash 2V to 3.6V 48-Pin LQFP Tray - Tape and Reel" 1850 200 50 H I L CNN "Description"
+F5 "1.6" 1850 100 50 H I L CNN "Height"
+F6 "511-STM32G0B0CET6" 1850 0 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G0B0CET6?qs=CiayqK2gdcIC3tl8Q%2FK3Iw%3D%3D" 1850 -100 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 1850 -200 50 H I L CNN "Manufacturer_Name"
+F9 "STM32G0B0CET6" 1850 -300 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X PC13 1 0 0 200 R 50 50 0 0 P
+X PC14-OSC32_IN 2 0 -100 200 R 50 50 0 0 P
+X PC15-OSC32_OUT 3 0 -200 200 R 50 50 0 0 P
+X VBAT 4 0 -300 200 R 50 50 0 0 P
+X VREF+ 5 0 -400 200 R 50 50 0 0 P
+X VDD/VDDA 6 0 -500 200 R 50 50 0 0 P
+X VSS/VSSA 7 0 -600 200 R 50 50 0 0 P
+X PF0-OSC_IN 8 0 -700 200 R 50 50 0 0 P
+X PF1-OSC_OUT 9 0 -800 200 R 50 50 0 0 P
+X NRST 10 0 -900 200 R 50 50 0 0 P
+X PA0 11 0 -1000 200 R 50 50 0 0 P
+X PA1 12 0 -1100 200 R 50 50 0 0 P
+X PA2 13 400 -1700 200 U 50 50 0 0 P
+X PA3 14 500 -1700 200 U 50 50 0 0 P
+X PA4 15 600 -1700 200 U 50 50 0 0 P
+X PA5 16 700 -1700 200 U 50 50 0 0 P
+X PA6 17 800 -1700 200 U 50 50 0 0 P
+X PA7 18 900 -1700 200 U 50 50 0 0 P
+X PB0 19 1000 -1700 200 U 50 50 0 0 P
+X PB1 20 1100 -1700 200 U 50 50 0 0 P
+X PB2 21 1200 -1700 200 U 50 50 0 0 P
+X PB10 22 1300 -1700 200 U 50 50 0 0 P
+X PB11 23 1400 -1700 200 U 50 50 0 0 P
+X PB12 24 1500 -1700 200 U 50 50 0 0 P
+X PA14-BOOT0 36 2000 0 200 L 50 50 0 0 P
+X PA13 35 2000 -100 200 L 50 50 0 0 P
+X PA12_[PA10] 34 2000 -200 200 L 50 50 0 0 P
+X PA11_[PA9] 33 2000 -300 200 L 50 50 0 0 P
+X PA10 32 2000 -400 200 L 50 50 0 0 P
+X PC7 31 2000 -500 200 L 50 50 0 0 P
+X PC6 30 2000 -600 200 L 50 50 0 0 P
+X PA9 29 2000 -700 200 L 50 50 0 0 P
+X PA8 28 2000 -800 200 L 50 50 0 0 P
+X PB15 27 2000 -900 200 L 50 50 0 0 P
+X PB14 26 2000 -1000 200 L 50 50 0 0 P
+X PB13 25 2000 -1100 200 L 50 50 0 0 P
+X PB9 48 400 600 200 D 50 50 0 0 P
+X PB8 47 500 600 200 D 50 50 0 0 P
+X PB7 46 600 600 200 D 50 50 0 0 P
+X PB6 45 700 600 200 D 50 50 0 0 P
+X PB5 44 800 600 200 D 50 50 0 0 P
+X PB4 43 900 600 200 D 50 50 0 0 P
+X PB3 42 1000 600 200 D 50 50 0 0 P
+X PD3 41 1100 600 200 D 50 50 0 0 P
+X PD2 40 1200 600 200 D 50 50 0 0 P
+X PD1 39 1300 600 200 D 50 50 0 0 P
+X PD0 38 1400 600 200 D 50 50 0 0 P
+X PA15 37 1500 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1800 400 1800 -1500 200 -1500 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model VTX-214-005-005
+#/299510/137422/2.50/5/3/Power Supply
+DEF VTX-214-005-005 PS 0 30 Y Y 1 F N
+F0 "PS" 1550 300 50 H V L CNN
+F1 "VTX-214-005-005" 1550 200 50 H V L CNN
+F2 "VTX214005005" 1550 100 50 H I L CNN
+F3 "https://www.vigortronix.com/wp-content/uploads/2022/01/VTX-214-005-0-Series-D0061.pdf" 1550 0 50 H I L CNN
+F4 "POWER SUPPLY, AC-DC, 5V, 1A" 1550 -100 50 H I L CNN "Description"
+F5 "15.29" 1550 -200 50 H I L CNN "Height"
+F6 "VIGORTRONIX" 1550 -300 50 H I L CNN "Manufacturer_Name"
+F7 "VTX-214-005-005" 1550 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1550 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1550 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1550 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1550 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X INPUT_N 1 0 0 200 R 50 50 0 0 P
+X INPUT_L 2 0 -100 200 R 50 50 0 0 P
+X NC 3 1700 -200 200 L 50 50 0 0 N
+X OUTPUT_DC_0V 4 1700 -100 200 L 50 50 0 0 P
+X OUTPUT_DC_+V 5 1700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model PBO-15C-5
+#/14850076/137422/2.50/6/2/Power Supply
+DEF PBO-15C-5 PS 0 30 Y Y 1 F N
+F0 "PS" 950 300 50 H V L CNN
+F1 "PBO-15C-5" 950 200 50 H V L CNN
+F2 "PBO15C5" 950 100 50 H I L CNN
+F3 "https://www.cui.com/product/resource/pbo-15c.pdf" 950 0 50 H I L CNN
+F4 "CUI - PBO-15C-5 - AC/DC PCB Mount Power Supply (PSU), ITE, 1 Output, 14 W, 5 V, 2.8 A" 950 -100 50 H I L CNN "Description"
+F5 "24" 950 -200 50 H I L CNN "Height"
+F6 "CUI Inc." 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PBO-15C-5" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-PBO-15C-5" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/CUI-Inc/PBO-15C-5?qs=zW32dvEIR3v1OhJ3M0mdjQ%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PBO-15C-5" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/pbo-15c-5/cui-inc?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X AC_(N) 1 0 0 200 R 50 50 0 0 P
+X AC_(L) 3 0 -100 200 R 50 50 0 0 P
+X +V_(CAP) 5 0 -200 200 R 50 50 0 0 P
+X -V_(CAP) 7 0 -300 200 R 50 50 0 0 P
+X -VO 14 0 -400 200 R 50 50 0 0 P
+X +VO 16 0 -500 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model AP63203WU-7
+#/1863283/137422/2.50/6/2/Integrated Circuit
+DEF AP63203WU-7 IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "AP63203WU-7" 850 200 50 H V L CNN
+F2 "AP63203WU7" 850 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf" 850 0 50 H I L CNN
+F4 "Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K" 850 -100 50 H I L CNN "Description"
+F5 "1" 850 -200 50 H I L CNN "Height"
+F6 "621-AP63203WU-7" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP63203WU-7?qs=u16ybLDytRZ1JqxbuLkMJw%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AP63203WU-7" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X FB 1 0 0 200 R 50 50 0 0 P
+X EN 2 0 -100 200 R 50 50 0 0 P
+X VIN 3 0 -200 200 R 50 50 0 0 P
+X GND 4 1000 -200 200 L 50 50 0 0 P
+X SW 5 1000 -100 200 L 50 50 0 0 P
+X BST 6 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model BAT54S
+#/1157109/137422/2.50/3/3/Schottky Diode
+DEF BAT54S D 0 30 Y Y 1 F N
+F0 "D" 750 300 50 H V L CNN
+F1 "BAT54S" 750 200 50 H V L CNN
+F2 "SOT95P240X110-3N" 750 100 50 H I L CNN
+F3 "https://www.rectron.com/data_sheets/bat54s.pdf" 750 0 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers SOT23 0.2A 30V Schot tky Dblr" 750 -100 50 H I L CNN "Description"
+F5 "1.1" 750 -200 50 H I L CNN "Height"
+F6 "583-BAT54S" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Rectron/BAT54S?qs=7pEAo90IqNGRiqD7TkybWA%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Rectron" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "BAT54S" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 P
+X K 2 0 -100 200 R 50 50 0 0 P
+X A/K 3 900 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model INA181A1IDBVR
+#/839870/137422/2.50/6/3/Undefined or Miscellaneous
+DEF INA181A1IDBVR U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "INA181A1IDBVR" 850 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ina181.pdf" 850 0 50 H I L CNN
+F4 "Current Sense Amplifiers 26V, Bidirectional, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "595-INA181A1IDBVR" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA181A1IDBVR?qs=5aG0NVq1C4wLgDhUNMFt2A%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "INA181A1IDBVR" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 O
+X GND 2 0 -100 200 R 50 50 0 0 W
+X IN+ 3 0 -200 200 R 50 50 0 0 I
+X VS 6 1000 0 200 L 50 50 0 0 W
+X REF 5 1000 -100 200 L 50 50 0 0 I
+X IN- 4 1000 -200 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model INA181A4IDBVR
+#/839864/137422/2.50/6/3/Integrated Circuit
+DEF INA181A4IDBVR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "INA181A4IDBVR" 850 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ina181.pdf" 850 0 50 H I L CNN
+F4 "Current Sense Amplifiers 26V, Bidirectional, 350kHz Bandwidth, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "595-INA181A4IDBVR" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA181A4IDBVR?qs=5aG0NVq1C4z0U4pe%2Fk%2Ferg%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "INA181A4IDBVR" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X IN+ 3 0 -200 200 R 50 50 0 0 P
+X VS 6 1000 0 200 L 50 50 0 0 P
+X REF 5 1000 -100 200 L 50 50 0 0 P
+X IN- 4 1000 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ESDZV5HS-1BF4
+#/1924276/137422/2.50/2/3/TVS Diode (Bi-directional)
+DEF ESDZV5HS-1BF4 D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L BNN
+F1 "ESDZV5HS-1BF4" 500 250 50 H V L BNN
+F2 "ESDZV5HS1BF4" 500 150 50 H I L BNN
+F3 "https://www.st.com/resource/en/datasheet/esdzv5hs-1bf4.pdf" 500 50 50 H I L BNN
+F4 "ESD Suppressors / TVS Diodes Ultra-low clamping single line bidirectional ESD protection" 500 -50 50 H I L BNN "Description"
+F5 "0.33" 500 -150 50 H I L BNN "Height"
+F6 "511-ESDZV5HS-1BF4" 500 -250 50 H I L BNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDZV5HS-1BF4?qs=l7cgNqFNU1hPMpLiUWAylw%3D%3D" 500 -350 50 H I L BNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 500 -450 50 H I L BNN "Manufacturer_Name"
+F9 "ESDZV5HS-1BF4" 500 -550 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+P 4 0 1 6 400 0 200 -100 200 100 400 0 N
+P 4 0 1 6 400 0 600 -100 600 100 400 0 N
+P 2 0 1 6 400 -80 400 80 N
+P 2 0 1 6 360 100 400 80 N
+P 2 0 1 6 400 -80 440 -100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ESD5Z2.5T1G
+#/224660/137422/2.50/2/3/Diode
+DEF ESD5Z2.5T1G D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "ESD5Z2.5T1G" 450 100 50 H V L CNN
+F2 "SODFL1608X70N" 450 0 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 450 -100 50 H I L CNN
+F4 "" 450 -200 50 H I L CNN "Description"
+F5 "0.7" 450 -300 50 H I L CNN "Height"
+F6 "863-ESD5Z2.5T1G" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z2.5T1G?qs=2OtswVQKCOEFBOCmlJpY1A%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "ESD5Z2.5T1G" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ESD321DYAR
+#/18237836/137422/2.50/2/3/TVS Diode (Uni-directional)
+DEF ESD321DYAR D 0 30 Y Y 1 F N
+F0 "D" 400 350 50 H V L BNN
+F1 "ESD321DYAR" 400 250 50 H V L BNN
+F2 "SODFL1608X77N" 400 150 50 H I L BNN
+F3 "" 400 50 50 H I L BNN
+F4 "6.3V (Typ) Clamp 6A (8/20s) Ipp Tvs Diode Surface Mount SOT-5X3" 400 -50 50 H I L BNN "Description"
+F5 "0.77" 400 -150 50 H I L BNN "Height"
+F6 "595-ESD321DYAR" 400 -250 50 H I L BNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ESD321DYAR?qs=rQFj71Wb1eXoYwRMra0IYA%3D%3D" 400 -350 50 H I L BNN "Mouser Price/Stock"
+F8 "Texas Instruments" 400 -450 50 H I L BNN "Manufacturer_Name"
+F9 "ESD321DYAR" 400 -550 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+P 4 0 1 6 200 0 400 100 400 -100 200 0 N
+P 2 0 1 6 200 -80 240 -100 N
+P 2 0 1 6 200 -80 200 80 N
+P 2 0 1 6 160 100 200 80 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TL431AQDBVR
+#/755275/137422/2.50/5/3/Integrated Circuit
+DEF TL431AQDBVR IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "TL431AQDBVR" 1250 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 1250 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/tl431.pdf?ts=1638284294600&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTL431AID" 1250 0 50 H I L CNN
+F4 "1% Accuracy Adjustable Precision Shunt Regulator" 1250 -100 50 H I L CNN "Description"
+F5 "1.45" 1250 -200 50 H I L CNN "Height"
+F6 "595-TL431AQDBVR" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431AQDBVR?qs=odmYgEirbwzPWdKeIq8qKQ%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TL431AQDBVR" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NC 1 0 0 200 R 50 50 0 0 N
+X ANODE_1 2 0 -100 200 R 50 50 0 0 P
+X CATHODE 3 0 -200 200 R 50 50 0 0 P
+X REF 4 1400 0 200 L 50 50 0 0 P
+X ANODE_2 5 1400 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model LMV321SQ3T2G
+#/4669754/137422/2.50/5/0/Integrated Circuit
+DEF LMV321SQ3T2G IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LMV321SQ3T2G" 1050 200 50 H V L CNN
+F2 "SOT65P210X110-5N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/LMV321SQ3T2G.pdf" 1050 0 50 H I L CNN
+F4 "Operational Amplifiers - Op Amps LV R2R OP AMP" 1050 -100 50 H I L CNN "Description"
+F5 "1.1" 1050 -200 50 H I L CNN "Height"
+F6 "863-LMV321SQ3T2G" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/LMV321SQ3T2G?qs=yU2N9dt%252BrfkDEebkfLT8KQ%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LMV321SQ3T2G" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +IN 1 0 0 200 R 50 50 0 0 P
+X V- 2 0 -100 200 R 50 50 0 0 P
+X -IN 3 0 -200 200 R 50 50 0 0 P
+X OUTPUT 4 1200 0 200 L 50 50 0 0 P
+X V+ 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model AN431AN-ATRG1
+#/277833/137422/2.50/3/2/Integrated Circuit
+DEF AN431AN-ATRG1 IC 0 30 Y Y 1 F N
+F0 "IC" 750 300 50 H V L CNN
+F1 "AN431AN-ATRG1" 750 200 50 H V L CNN
+F2 "SOT96P240X105-3N" 750 100 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/AN431.pdf" 750 0 50 H I L CNN
+F4 "Shunt Voltage Reference IC Adjustable 2.5V 36 VV +/-0.5% 100 mA SOT-23-3" 750 -100 50 H I L CNN "Description"
+F5 "1.05" 750 -200 50 H I L CNN "Height"
+F6 "621-AN431AN-ATRG1" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AN431AN-ATRG1?qs=eSfX1CQlHqo5NA9sb4m3rw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AN431AN-ATRG1" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K 1 0 0 200 R 50 50 0 0 P
+X REF 2 0 -100 200 R 50 50 0 0 P
+X A 3 900 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model LMV611MGX_NOPB
+#/813707/137422/2.50/5/3/Integrated Circuit
+DEF LMV611MGX_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "LMV611MGX_NOPB" 850 200 50 H V L CNN
+F2 "SOT65P210X110-5N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/LMV611" 850 0 50 H I L CNN
+F4 "Single low voltage, low power, RRIO general purpose amplifier" 850 -100 50 H I L CNN "Description"
+F5 "1.1" 850 -200 50 H I L CNN "Height"
+F6 "926-LMV611MGX/NOPB" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LMV611MGX%2FNOPB" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LMV611MGX/NOPB" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +IN 1 0 0 200 R 50 50 0 0 P
+X V- 2 0 -100 200 R 50 50 0 0 W
+X -IN 3 0 -200 200 R 50 50 0 0 P
+X OUT 4 1000 0 200 L 50 50 0 0 P
+X V+ 5 1000 -100 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CV201210-3R9K
+#/1449887/137422/2.50/2/3/Inductor
+DEF CV201210-3R9K L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "CV201210-3R9K" 650 150 50 H V L CNN
+F2 "INDC2012X145N" 650 50 50 H I L CNN
+F3 "https://www.bourns.com/docs/Product-Datasheets/CV201210.pdf" 650 -50 50 H I L CNN
+F4 "Fixed Inductors 3.9uH 10% MULTI LAYER" 650 -150 50 H I L CNN "Description"
+F5 "1.45" 650 -250 50 H I L CNN "Height"
+F6 "652-CV201210-3R9K" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Bourns/CV201210-3R9K?qs=k2%252BVLg4AuuT1qZBUl7DU1w%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CV201210-3R9K" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
+#
 #End Library

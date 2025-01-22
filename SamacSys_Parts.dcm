@@ -48,4 +48,118 @@ K
 F https://www.bourns.com/docs/product-datasheets/mov10d.pdf
 $ENDCMP
 #
+$CMP T520H108M006ATE055
+D T520, Tantalum, Polymer Tantalum, Commercial Grade, 1,000 uF, 20%, 6.3 VDC, 85C, -55C, 85C, SMD, Polymer, Molded, Low Profile/ESR, NonCombustible, 2,000 Hrs, 20 % , 55 mOhms, 630 uA, 384.64 mg, 7360, 1.9mm, Height Max = 2mm, 1000, 52  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_T2076_T52X-530.pdf
+$ENDCMP
+#
+$CMP LMV324TSG-13
+D DiodesZetex LMV324TSG-13, Quad Low Noise Op Amp, 1MHz Rail-Rail, 2.7  5.5 V, 14-Pin TSSOP
+K
+F https://www.diodes.com/assets/Datasheets/LMV321_358.pdf
+$ENDCMP
+#
+$CMP TXS0108EPWR
+D TXS0108EPWR, Voltage Level Translator, Open Drain 1.2  3.6 V, 1.65  5.5 V 20-Pin TSSOP
+K
+F http://www.ti.com/lit/ds/symlink/txs0108e.pdf
+$ENDCMP
+#
+$CMP ESD9B5.0ST5G
+D ON SEMICONDUCTOR - ESD9B5.0ST5G - DIODE, TVS, 5V, SOD-923
+K
+F http://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP STM32G0B0CET6
+D MCU 32-Bit Arm Cortex-M0+ RISC 512KB KB Flash 2V to 3.6V 48-Pin LQFP Tray - Tape and Reel
+K
+F 
+$ENDCMP
+#
+$CMP VTX-214-005-005
+D POWER SUPPLY, AC-DC, 5V, 1A
+K
+F https://www.vigortronix.com/wp-content/uploads/2022/01/VTX-214-005-0-Series-D0061.pdf
+$ENDCMP
+#
+$CMP PBO-15C-5
+D CUI - PBO-15C-5 - AC/DC PCB Mount Power Supply (PSU), ITE, 1 Output, 14 W, 5 V, 2.8 A
+K
+F https://www.cui.com/product/resource/pbo-15c.pdf
+$ENDCMP
+#
+$CMP AP63203WU-7
+D Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+K
+F https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+$ENDCMP
+#
+$CMP BAT54S
+D Schottky Diodes & Rectifiers SOT23 0.2A 30V Schot tky Dblr
+K
+F https://www.rectron.com/data_sheets/bat54s.pdf
+$ENDCMP
+#
+$CMP INA181A1IDBVR
+D Current Sense Amplifiers 26V, Bidirectional, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/ina181.pdf
+$ENDCMP
+#
+$CMP INA181A4IDBVR
+D Current Sense Amplifiers 26V, Bidirectional, 350kHz Bandwidth, Low- or High-Side Voltage Output Current Sense Amplifier 6-SOT-23 -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/ina181.pdf
+$ENDCMP
+#
+$CMP ESDZV5HS-1BF4
+D ESD Suppressors / TVS Diodes Ultra-low clamping single line bidirectional ESD protection
+K
+F https://www.st.com/resource/en/datasheet/esdzv5hs-1bf4.pdf
+$ENDCMP
+#
+$CMP ESD5Z2.5T1G
+D 
+K
+F http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
+$ENDCMP
+#
+$CMP ESD321DYAR
+D 6.3V (Typ) Clamp 6A (8/20s) Ipp Tvs Diode Surface Mount SOT-5X3
+K
+F 
+$ENDCMP
+#
+$CMP TL431AQDBVR
+D 1% Accuracy Adjustable Precision Shunt Regulator
+K
+F https://www.ti.com/lit/ds/symlink/tl431.pdf?ts=1638284294600&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTL431AID
+$ENDCMP
+#
+$CMP LMV321SQ3T2G
+D Operational Amplifiers - Op Amps LV R2R OP AMP
+K
+F https://componentsearchengine.com/Datasheets/1/LMV321SQ3T2G.pdf
+$ENDCMP
+#
+$CMP AN431AN-ATRG1
+D Shunt Voltage Reference IC Adjustable 2.5V 36 VV +/-0.5% 100 mA SOT-23-3
+K
+F https://www.diodes.com//assets/Datasheets/AN431.pdf
+$ENDCMP
+#
+$CMP LMV611MGX_NOPB
+D Single low voltage, low power, RRIO general purpose amplifier
+K
+F http://www.ti.com/lit/gpn/LMV611
+$ENDCMP
+#
+$CMP CV201210-3R9K
+D Fixed Inductors 3.9uH 10% MULTI LAYER
+K
+F https://www.bourns.com/docs/Product-Datasheets/CV201210.pdf
+$ENDCMP
+#
 #End Doc Library
