@@ -26,7 +26,7 @@
   (pad 3 smd rect (at -0.95 0.65 90) (size 0.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.95 0.65 90) (size 0.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.95 -0.65 90) (size 0.4 1.2) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\ktw15\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\LMV611MGX_NOPB.stp"
+  (model "C:\\Users\\ktw15\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\TMP235A4DCKR.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
