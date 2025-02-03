@@ -192,4 +192,34 @@ K
 F http://www.ti.com/lit/gpn/tmp235
 $ENDCMP
 #
+$CMP B72210S0251K101
+D Leaded Disk Varistors, Max. Operating Voltage [AC]=250Vrms, Max. Surge Current Imax(8/20?s,1time)=2500A
+K
+F https://product.tdk.com/system/files/dam/doc/product/protection/voltage/lead-disk-varistor/data_sheet/70/db/var/siov_leaded_standard.pdf
+$ENDCMP
+#
+$CMP PMEG3010ER,115
+D Nexperia 30V 1A, Schottky Diode, 2-Pin SOD-123 PMEG3010ER,115
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010ER.pdf
+$ENDCMP
+#
+$CMP BC857BMB,315
+D NEXPERIA - BC857BMB,315 - Bipolar (BJT) Single Transistor, PNP, 45 V, 100 mA, 250 mW, DFN1006B, Surface Mount
+K
+F https://assets.nexperia.com/documents/data-sheet/BC857XMB_SER.pdf
+$ENDCMP
+#
+$CMP R46KI310000M1K
+D R46 275 VAC, Film, Metallized Polypropylene, Safety, 0.1 uF, 10%, 275 VAC, 275 VAC (X2), 275 VAC, 560 VDC, 110C, -40C, 110C, 0.1 % , 100 GOhms, 400 V/us, 2, 1.35 g, 18mm, 11mm, 5mm, Lead Spacing = 15mm, 2000
+K
+F https://content.kemet.com/datasheets/KEM_F3093_R46_X2_275_110C.pdf
+$ENDCMP
+#
+$CMP BC857BLT1G
+D Pb-Free Packages are Available; S and NSV Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AEC-Q101 Qualified and PPAP Capable
+K
+F https://www.onsemi.com/pub/Collateral/BC856ALT1-D.PDF
+$ENDCMP
+#
 #End Doc Library

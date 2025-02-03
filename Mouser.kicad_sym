@@ -8581,10 +8581,11 @@
 			)
 		)
 	)
-	(symbol "PAD_hole2.6"
-		(exclude_from_sim yes)
+	(symbol "PAD_hole"
+		(pin_numbers hide)
+		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(property "Reference" "P"
 			(at 1.016 1.778 0)
 			(effects
@@ -8628,7 +8629,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "PAD_hole2.6_1_1"
+		(symbol "PAD_hole_1_1"
 			(pin input inverted
 				(at -1.27 0 0)
 				(length 2.54)

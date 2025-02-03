@@ -2689,7 +2689,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8582,9 +8582,10 @@
 		)
 	)
 	(symbol "PAD_hole2.6"
-		(exclude_from_sim yes)
+		(pin_numbers hide)
+		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(property "Reference" "P"
 			(at 1.016 1.778 0)
 			(effects

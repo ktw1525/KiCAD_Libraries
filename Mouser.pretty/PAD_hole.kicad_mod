@@ -81,8 +81,8 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
-		(size 3.25 3.25)
-		(drill 1.56)
+		(size 2 2)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(teardrops
