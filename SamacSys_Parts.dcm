@@ -222,4 +222,160 @@ K
 F https://www.onsemi.com/pub/Collateral/BC856ALT1-D.PDF
 $ENDCMP
 #
+$CMP UJC-H-G-SMT-2-P6-TR
+D Type C, Power Only, 30 Vac, 3 A, Horizontal, Gold plated 1u, Surface Mount,6 pin, USB Receptacle
+K
+F https://www.sameskydevices.com/product/resource/ujc-h-g-smt-2-p6-tr.pdf
+$ENDCMP
+#
+$CMP 10133476-10001LF
+D USB 3.1 GEN 2 Type C Connector, Input Output Connector, R/A HYBRID RECEPTACLE
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10133476.pdf
+$ENDCMP
+#
+$CMP KS_EELP41.22-P1R2-58-A8J8-020-R18
+D Standard LEDs - SMD 0603 (1608 metric)
+K
+F 
+$ENDCMP
+#
+$CMP ACS72981KLRATR-150B5
+D High-Precision Linear Hall-Effect-Based Current Sensor IC With 200 Current Conductor
+K
+F https://allegromicro.com/-/media/files/datasheets/acs72981-datasheet.ashx
+$ENDCMP
+#
+$CMP ACS71240KEXBLT-010B3
+D Automotive-Grade, Galvanically Isolated Current Sensor IC With Common-Mode Field Rejection And Overcurrent Detection
+K
+F https://www.allegromicro.com/~/media/files/datasheets/acs71240-datasheet.pdf
+$ENDCMP
+#
+$CMP ACS72981KLRATR-150B3
+D High-Precision Linear Hall-Effect-Based Current Sensor IC With 200 Current Conductor
+K
+F https://allegromicro.com/-/media/files/datasheets/acs72981-datasheet.ashx
+$ENDCMP
+#
+$CMP AMC1200SDUBR
+D Isolation Amplifiers 4kV peak Iso Amp
+K
+F https://www.ti.com/lit/gpn/AMC1200
+$ENDCMP
+#
+$CMP STM32F030C6T6TR
+D ARM Microcontrollers - MCU Mainstream ARM Cortex-M0 Value line MCU with 32 Kbytes Flash, 48 MHz CPU
+K
+F https://mouser.componentsearchengine.com/Datasheets/1/STM32F030C6T6TR.pdf
+$ENDCMP
+#
+$CMP STM32L412K8T6
+D STMICROELECTRONICS - STM32L412K8T6 - ARM MCU, STM32 Family STM32L4 Series Microcontrollers, ARM Cortex-M4, 32bit, 80 MHz, 128 KB, 40 KB
+K
+F 
+$ENDCMP
+#
+$CMP LAN8742AI-CZ
+D Microchip LAN8742AI-CZ Ethernet Transceiver, IEEE 802.3, IEEE 802.3u, 10 Mbps, 100 Mbps 1.62  3.6 V, 24-Pin SQFN
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/8742a.pdf
+$ENDCMP
+#
+$CMP W5500
+D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
+K
+F https://docs.wiznet.io/img/products/w5500/W5500_ds_v110e.pdf
+$ENDCMP
+#
+$CMP PTN092-H100115K1B
+D 100k Ohm 2 Gang Linear Panel Mount Potentiometer 1.0 Turns Carbon 0.05W, 1/20W PC Pins, Board Locks
+K
+F https://www.sameskydevices.com/product/resource/ptn09x.pdf
+$ENDCMP
+#
+$CMP AZV832MTR-G1
+D Operational Amplifier, RRIO, 2 Channels, 1 MHz, 0.45 V/s, 1.6V to 5.5V, SOIC, 8 Pins
+K
+F https://www.diodes.com//assets/Datasheets/AZV831-2.pdf
+$ENDCMP
+#
+$CMP T93YA221KT20
+D VISHAY - T93YA221KT20 - TRIMMER, POT, 220R, 23TURN, TH
+K
+F https://www.vishay.com/docs/51026/t93.pdf
+$ENDCMP
+#
+$CMP IRM-05-5
+D 5W Single Output Encapsulated Type
+K
+F https://www.mouser.fr/datasheet/2/260/r1936_3-1109422.pdf
+$ENDCMP
+#
+$CMP RAC05E-05SKT
+D 5 Watt 1.07?x1.26? Single Output, 5VDC
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC05E-KT.pdf
+$ENDCMP
+#
+$CMP 4PCV-03-006
+D Barrier Strips, Tri-Barrier, Printed Circuit Pin, Wire-to-Board, 3 Position, 8.26 mm [.325 in] Centerline, 1 Row, Buchanan 4 Series
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5-1437648-7%7FL4%7Fpdf%7FEnglish%7FENG_CD_5-1437648-7_L4.pdf%7F6-1437648-1
+$ENDCMP
+#
+$CMP STM32F103RCT6
+D STM32F103RCT6, 32 bit ARM Cortex M3 Microcontroller 72MHz 256 kB Flash, 48 kB RAM, USB CAN I2C 64-Pin LQFP
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf
+$ENDCMP
+#
+$CMP LCD-H401M16KR
+D LCD Numeric Display Modules 4 Digit 0.17" 7 Seg Reflective
+K
+F https://www.lumex.com/spec/LCD-H401M16KR.pdf
+$ENDCMP
+#
+$CMP RAC10E-05SK_277
+D AC/DC Converter, 10 Watt, 1.8" x 1.0", Single Output, 5V
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC10E-K_277.pdf
+$ENDCMP
+#
+$CMP AP2210K-3.3TRG1
+D 300mA 3.3V RF ULDO Regulator SOT23-5 AP2210K-3.3TRG1, Low Noise LDO Voltage Regulator, 300mA, 3.3 V ??2%, 2.5 ??? 13.2 Vin, 5-Pin SOT-23-5
+K
+F https://www.diodes.com//assets/Datasheets/AP2210.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-4.5_NOPB
+D 250-mA ultra-low-noise low-IQ low-dropout (LDO) linear regulator
+K
+F http://www.ti.com/lit/gpn/lp5907
+$ENDCMP
+#
+$CMP TLF9UAH153W0R2K1
+D Common Mode Chokes / Filters COMMON MODE CHK COIL 15MH
+K
+F http://www.yuden.co.jp/productdata/catalog/coil04_e.pdf
+$ENDCMP
+#
+$CMP USB4175-GF-0230-C
+D USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Through Hole
+K
+F https://gct.co/Files/Drawings/USB4175.pdf?v=f438f642-fd83-4aaa-9c7a-56b3455f7c1d
+$ENDCMP
+#
+$CMP USB4115-03-C
+D USB Connectors USB C Rec 3u" vert 24p SMT & TH stakes pegs T+R+C H = 9.25
+K
+F https://gct.co/files/drawings/usb4115.pdf
+$ENDCMP
+#
+$CMP USB4725-03-C
+D USB Connectors USB3.2 Gen 2 Type-C Receptacle, 24Pin, Vertical, SMT, PCB Top Mount, IP67
+K
+F https://gct.co/files/drawings/usb4725.pdf
+$ENDCMP
+#
 #End Doc Library
