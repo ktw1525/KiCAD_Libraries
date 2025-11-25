@@ -1,0 +1,95 @@
+(footprint "TEST RESULT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 8 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b9d15885-b692-451b-907c-61bf68ab0ce4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" " TEST RESULT "
+		(at 0 -8.375 0)
+		(unlocked yes)
+		(layer "F.Fab" knockout)
+		(uuid "4f18028d-c7e9-4bf6-9b6c-cdd94a5a1b76")
+		(effects
+			(font
+				(size 2 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 8 -0.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02b1d8d7-7bc1-48d9-9f6a-8899068fdffd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 8 -0.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8e0ffe8-858f-4561-927c-e0b2e945e51a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr allow_missing_courtyard)
+	(fp_rect
+		(start -8 -10.25)
+		(end 8 -6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e3f05cf5-94ff-4d15-8b80-1bf41e83a28e")
+	)
+	(fp_rect
+		(start -8 -10.25)
+		(end 8 9.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5e1d6639-651d-440a-98f7-67cb0e1e766a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 8 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34b1206b-38e5-4841-aa46-72c98b852be8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

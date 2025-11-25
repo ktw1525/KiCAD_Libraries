@@ -1,0 +1,177 @@
+(footprint "678-39-C"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "S**"
+		(at 0 14 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f46fd7ea-92f5-4a69-b324-a8841dc1a3e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "678-39-C"
+		(at 0 15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37eb0743-7bd6-4c4a-ba98-a9824f72bd4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/catalog/specsheets/wakefield_102022_678-39-C.pdf"
+		(at 0 13.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0068f214-6b0f-406a-9fe4-75818e3742b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "heatsink 1.5C/W"
+		(at 0 13.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a16ef4d4-fe97-45e5-87a2-a35c0ab2754d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -30 -12.5)
+		(end -30 12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "12e40d80-f5d1-4dde-bac5-b290119952f2")
+	)
+	(fp_line
+		(start -30 12.5)
+		(end 30 12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "621b986c-816f-4f47-a6d6-8ff149d0bf6a")
+	)
+	(fp_line
+		(start -15 -12.5)
+		(end -30 -12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1e365698-f0f8-4e32-8fd8-be5e24094b60")
+	)
+	(fp_line
+		(start -15 -1)
+		(end -15 -12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "371580ea-d934-45b4-95a2-d910a798f119")
+	)
+	(fp_line
+		(start -15 -1)
+		(end 15 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "13a7209b-be53-4ebd-a439-5e090c63d512")
+	)
+	(fp_line
+		(start 15 -12.5)
+		(end 15 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a8d30d0a-91d4-4c3c-b9a7-6b4de4d19558")
+	)
+	(fp_line
+		(start 30 -12.5)
+		(end 15 -12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8a8e370e-4f46-4c78-9b4e-95bd1e0d76ed")
+	)
+	(fp_line
+		(start 30 12.5)
+		(end 30 -12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "24e90156-1617-43b8-ac13-77e129cec31d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 17 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b470c8ff-6769-4d8f-bf6f-96367afdf479")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -21.9 0)
+		(size 5 5)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "15c4cd11-a8db-4458-964b-cb863fb02d9f")
+	)
+	(pad "2" thru_hole circle
+		(at 21.9 0)
+		(size 5 5)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f4eaa58a-0510-48f6-989d-6d56eb22e9ac")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/sdsystem-20250303/Downloads/678-39-SC.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

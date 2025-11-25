@@ -24,7 +24,7 @@
   (fp_line (start -2.5 3.5) (end -2.5 -3.5) (layer F.CrtYd) (width 0.1))
   (pad 1 thru_hole circle (at 0.000 -0) (size 1.381 1.381) (drill 0.85) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 15.000 -0) (size 1.381 1.381) (drill 0.85) (layers *.Cu *.Mask))
-  (model "C:\\Users\\ktw15\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\R46KI310000M1K.stp"
+  (model "C:\\Users\\sdsystem-20250303\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\R46KI310000M1K.stp"
     (at (xyz -0.064960628982604 0.10236220096979 -0.0039370079326817))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

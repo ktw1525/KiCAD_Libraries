@@ -1,0 +1,106 @@
+(footprint "658-45AB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "S**"
+		(at 5.975 15.2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f46fd7ea-92f5-4a69-b324-a8841dc1a3e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "658-45AB"
+		(at 0 15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37eb0743-7bd6-4c4a-ba98-a9824f72bd4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/catalog/specsheets/wakefield_102022_678-39-C.pdf"
+		(at 0 13.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0068f214-6b0f-406a-9fe4-75818e3742b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "heatsink 1.5C/W"
+		(at 0 13.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a16ef4d4-fe97-45e5-87a2-a35c0ab2754d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -13.95 -13.95)
+		(end 13.95 13.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "dcc8bac3-1a4f-415a-87e3-733bbefa0952")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 17 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b470c8ff-6769-4d8f-bf6f-96367afdf479")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect rect
+		(at -12.8 12.875)
+		(size 1 1)
+		(layers "*.Mask" "B.Cu")
+		(thermal_bridge_angle 45)
+		(uuid "15c4cd11-a8db-4458-964b-cb863fb02d9f")
+	)
+	(pad "2" connect rect
+		(at 12.7 -12.725)
+		(size 1 1)
+		(layers "*.Mask" "B.Cu")
+		(thermal_bridge_angle 45)
+		(uuid "f4eaa58a-0510-48f6-989d-6d56eb22e9ac")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/sdsystem-20250303/Downloads/658-45AB.stp"
+		(offset
+			(xyz 0 0 5.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

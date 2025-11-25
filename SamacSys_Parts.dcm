@@ -378,4 +378,424 @@ K
 F https://gct.co/files/drawings/usb4725.pdf
 $ENDCMP
 #
+$CMP LH1262CACTR
+D MOSFET Output Optocouplers Dual Photovoltaic MOSFET Driver
+K
+F https://www.vishay.com/docs/83802/lh1262ca.pdf
+$ENDCMP
+#
+$CMP UCC23511DWYR
+D Gate Drivers 1-A, 5.7-kVRMS opto-compatible single channel isolated gate driver 6-SOIC -40 to 125
+K
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fucc23511
+$ENDCMP
+#
+$CMP J1B1211CCD
+D Modules Accessories RJ-45 w/ Transformer Connector /CETUS
+K
+F http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550web:wiz550webds_kr:j1b1211ccd.pdf
+$ENDCMP
+#
+$CMP OPA2994IDR
+D Operational Amplifiers - Op Amps OP AMPS
+K
+F https://www.ti.com/lit/ds/symlink/opa994.pdf?ts=1709662320890&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FOPA994
+$ENDCMP
+#
+$CMP SCMT22F505PRBA0
+D CYLINDRICAL SUPERCAP MODUL
+K
+F https://www.mouser.co.uk/datasheet/2/40/AVX-SCM-1018838.pdf
+$ENDCMP
+#
+$CMP ZMPT107-1
+D 2mA Voltage transformer 1:1 2mA Plugin Current Sense Transformers ROHS
+K
+F https://item.szlcsc.com/136467.html
+$ENDCMP
+#
+$CMP 3362P-1-204LF
+D Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 200k +/-10% 0.5W +/-100ppm/C Top Adjust
+K
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+$CMP OPA541AP
+D Operational Amplifiers - Op Amps Hi-Power Monolithic Op Amp
+K
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-OPA541AP_C15537.pdf
+$ENDCMP
+#
+$CMP YW396-04V
+D 3.96mm PITCH CONNECTOR 4 postion  though hole
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/YEOD/YEODS00068/YEODS00068-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP ALC70A102EH450
+D ALC70, Aluminum, Aluminum Electrolytic, 1,000 uF, 20%, 450 VDC, -40/+85C, 85C, -40C, 85C, 2, 18,000 Hrs, 85.4 mOhms, 4.3155, 2,700 uA, 125 g, 40mm, 60mm, 10mm, 6.3mm, 156  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_A4081_ALC70.pdf
+$ENDCMP
+#
+$CMP OPA544T
+D High-Current (4A Typ), High-Voltage, Operational Amplifier
+K
+F http://www.ti.com/lit/gpn/opa544
+$ENDCMP
+#
+$CMP LM1084IT-ADJ_NOPB
+D 5A Fixed / Adjustable Output Linear Regulator
+K
+F http://www.ti.com/lit/gpn/lm1084
+$ENDCMP
+#
+$CMP 581102B00000G
+D Heat Sinks Extruded Heat Sink for TO-220, 0.059mm Height
+K
+F https://media.digikey.com/pdf/data%20sheets/aavid%20thermal%20technologies%20pdfs/board-level-heatsinks_cat.pdf
+$ENDCMP
+#
+$CMP MIC29512WT
+D Microchip MIC29512WT, LDO Regulator, 5A Adjustable, +/-2%, 4.75  5.25 Vin, TO-220 5-Pin
+K
+F 
+$ENDCMP
+#
+$CMP ACS759LCB-050B-PFF-T
+D Thermally Enhanced, Fully Integrated, Hall-Effect-Based Linear Current Sensor IC With 100 ?? Current Conductor and Optimized Performance at 3.3 V
+K
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS759-Datasheet.ashx
+$ENDCMP
+#
+$CMP ACS759LCB-100B-PFF-T
+D Thermally Enhanced, Fully Integrated, Hall-Effect-Based Linear Current Sensor IC With 100 ?? Current Conductor and Optimized Performance at 3.3 V
+K
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS759-Datasheet.ashx
+$ENDCMP
+#
+$CMP TPS7B8850QKVURQ1R2
+D LDO Voltage Regulators Automotive 500-mA, 40-V, low-dropout (LDO) linear regulator with fast transient response, TO-252 package
+K
+F https://www.ti.com/lit/ds/symlink/tps7b88-q1.pdf?ts=1678685515389&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS7B88-Q1%252Fpart-details%252FTPS7B8850QKVURQ1R2
+$ENDCMP
+#
+$CMP STM32G474RBT3
+D STMICROELECTRONICS - STM32G474RBT3 - ARM MCU, STM32 Family STM32G4 Series Microcontrollers, ARM Cortex-M4F, 32bit, 170 MHz, 128 KB
+K
+F https://componentsearchengine.com/Datasheets/2/STM32G474RBT3.pdf
+$ENDCMP
+#
+$CMP ACS722LLCTR-05AB-T
+D High Accuracy 3.3V Optimized Current Sensor IC
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs722-datasheet.ashx
+$ENDCMP
+#
+$CMP TLE2426ILP
+D The 'Rail Splitter' Precision Virtual Ground
+K
+F http://www.ti.com/lit/gpn/tle2426
+$ENDCMP
+#
+$CMP INA592IDR
+D Differential Amplifiers High-precision (40 uV offset), 2-MHz, 88dB CMRR, low-power, e-trim difference amplifier 8-SOIC -40 to 125
+K
+F https://www.ti.com/lit/gpn/INA592
+$ENDCMP
+#
+$CMP TDA7293V
+D STMICROELECTRONICS - TDA7293V - Audio Power Amplifier, 100 W, AB, 1 Channel, +/- 12V to +/- 50V, Multiwatt, 15 Pins
+K
+F https://componentsearchengine.com/Datasheets/2/TDA7293V.pdf
+$ENDCMP
+#
+$CMP TPA3255TDDVRQ1
+D 315W-stereo / 600W-mono ultra-HD analog-input automotive class-D amplifier
+K
+F http://www.ti.com/lit/gpn/TPA3255-Q1
+$ENDCMP
+#
+$CMP LM3886TF_NOPB
+D Overture Series: High performance 68W stereo audio power amplifier with Mute
+K
+F http://www.ti.com/lit/gpn/lm3886
+$ENDCMP
+#
+$CMP B43630A5108M082
+D Snap-in Capacitors, 1000?F/450VDC, 35mm dia x 55mm length
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43630.pdf
+$ENDCMP
+#
+$CMP B43657C5208M657
+D Aluminum Electrolytic Capacitors - Snap In 2060 uF 450 VDC 2 Pin 20 % - 40 C+ 105 C
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43657.pdf
+$ENDCMP
+#
+$CMP PH9455.105NL
+D 1 mH @ 15.94 MHz 2 Line Common Mode Choke Through Hole 1.5 kOhms @ 15.94 MHz 22A DCR 2.1mOhm
+K
+F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/ph9455.105nl
+$ENDCMP
+#
+$CMP BLM18PG121SN1D
+D Ferrite bead SMD 0603 120R 2A Murata Ferrite Bead (Chip Ferrite Bead), 1.6 x 0.8 x 0.8mm (0603), 120 impedance at 100 MHz
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP RAC10-12DK_277
+D Power Supply Encapsulated PCB +/-12V 10W
+K
+F https://componentsearchengine.com/Datasheets/1/RAC10-12DK_277.pdf
+$ENDCMP
+#
+$CMP RAC05-3.3SK_277
+D RECOM POWER - RAC05-3.3SK/277 - AC/DC PCB Mount Power Supply (PSU), 1 Output, 5 W, 3.3 V, 1.51 A
+K
+F https://www.arrow.com/en/products/rac05-3.3sk277/recom-power
+$ENDCMP
+#
+$CMP RAC05-05SK_277
+D Power Supply Encapsulated PCB  5V 5W
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC05-K_277.pdf
+$ENDCMP
+#
+$CMP TMCS1123A1AQDVGR
+D Current Sensor +/-96A 1 Channel Hall Effect Bidirectional 10-SOIC (0.295", 7.50mm Width)
+K
+F https://www.ti.com/lit/ds/symlink/tmcs1123.pdf?ts=1707973672803&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP MCR1101-5-3
+D Board Mount Current Sensors High Accuracy +/-5A Current Sensor, 3.3V, Ratiometric, 1.5MHz 3dB BW, OCD, Galvanic Isolation. UL/IEC/EN60950-1 and UL1577 certified. SOIC-16
+K
+F https://componentsearchengine.com/Datasheets/1/MCR1101-5-3.pdf
+$ENDCMP
+#
+$CMP MCA1101-5-3
+D Board Mount Current Sensors
+K
+F https://componentsearchengine.com/Datasheets/1/MCA1101-5-3.pdf
+$ENDCMP
+#
+$CMP CSD25404Q3
+D -20V, P ch NexFET MOSFET, single SON 3x3, 6.5mOhm
+K
+F http://www.ti.com/lit/gpn/csd25404q3
+$ENDCMP
+#
+$CMP CSD19534KCS
+D Texas Instruments CSD19534KCS N-channel MOSFET Transistor, 100 A, 100 V, 3-Pin TO-220
+K
+F http://www.ti.com/lit/gpn/csd19534kcs
+$ENDCMP
+#
+$CMP CSD18504KCS
+D 40V, N ch NexFET MOSFET, single TO-220, 7mOhm
+K
+F http://www.ti.com/lit/gpn/csd18504kcs
+$ENDCMP
+#
+$CMP IMZ1AT108
+D NPN+PNP, SOT-457, General Purpose Amplification Transistor
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/bipolar/umz1ntr-e.pdf
+$ENDCMP
+#
+$CMP MMBT2222A-TP
+D Small Signal Bipolar Transistors
+K
+F https://mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP BC856B
+D Bipolar Transistors - BJT BJT, SOT-23, 65V, 100mA, PNP
+K
+F https://assets.nexperia.com/documents/data-sheet/BC856_BC857_BC858.pdf
+$ENDCMP
+#
+$CMP RAC15-12SK_480
+D 15W AC/DC-Converter 'POWERLINE' 2"x1.6" 3.6kV reg
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC15-K_480.pdf
+$ENDCMP
+#
+$CMP RAC20-12DK_277
+D AC/DC Power Modules 20W 85-305Vin 12Vout -12Vout 833mA
+K
+F https://g.recomcdn.com/media/Datasheet/pdf/.foxkDA9X/.t4c211b3c4016d66c96f6/Datasheet-132/RAC20-K.pdf
+$ENDCMP
+#
+$CMP RAC25-12SK_480
+D 25W AC/DC-Converter 'POWERLINE' 3.2"x1.8" 3.6kV reg
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC25-K_480.pdf
+$ENDCMP
+#
+$CMP LT1175CS8#PBF
+D LT1175CS8#PBF, Low Dropout Voltage Regulator, Adjustable 0.5A, -3.8  19.3 V 2.5%, 8-Pin SO
+K
+F http://cds.linear.com/docs/en/datasheet/1175ff.pdf
+$ENDCMP
+#
+$CMP LD1086BDTTR
+D Linear Voltage Regulator IC Positive Adjustable 1 Output 1.5A DPAK 30V
+K
+F https://www.st.com/resource/en/datasheet/ld1086.pdf
+$ENDCMP
+#
+$CMP UCC23513BQDWYRQ1
+D Gate Drivers Automotive 4-A source, 5-A sink, 5.7-kVRMS opto-compatible single-channel isolated gate driver 6-SOIC -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/ucc23513-q1.pdf?ts=1623397256854&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+$CMP R1M-1215S_SMD
+D 1W DC/DC-Converter 'ECONOLINE' SMD Single Output 15VDC, 70mA, efficiency= 81%, -40C to +90C, 14.2 x 9.1 x 10.2mm.
+K
+F https://recom-power.com/pdf/Econoline/R1M.pdf
+$ENDCMP
+#
+$CMP RACM30-12SK_277
+D 30W AC/DC-Converter 'POWERLINE' 4kV reg,VAC:85-305,VDC:12,mA:2500,%:90,F:10000
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RACM30-K_277.pdf
+$ENDCMP
+#
+$CMP RACM30-12DK_277
+D 30W AC/DC-Converter 'POWERLINE' 4kV reg,VAC:85-305,VDC:+/-12,mA:+/-1250,%:86,F:+/-8000.
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RACM30-K_277.pdf
+$ENDCMP
+#
+$CMP CSD18502KCS
+D 40V, N ch NexFET MOSFET, single TO-220, 2.9mOhm
+K
+F http://www.ti.com/lit/gpn/csd18502kcs
+$ENDCMP
+#
+$CMP MAX1649CSA+
+D MAXIM INTEGRATED PRODUCTS - MAX1649CSA+ - DC/DC CONTROLLER, BUCK, 300KHZ, SOIC-8
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX1649-MAX1651.pdf
+$ENDCMP
+#
+$CMP LT3083EQ#PBF
+D Linear Voltage Regulator IC Positive Adjustable 1 Output 3A 5-DDPAK
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT3083.pdf
+$ENDCMP
+#
+$CMP RAC03-3.3SK
+D AC/DC Power Modules 3W 85-264Vin 3.3Vout 900mA
+K
+F https://recom-power.com/pdf/Powerline_AC-DC/RAC03-K.pdf
+$ENDCMP
+#
+$CMP 1N4746A
+D Zener Voltage Range - 3.3 V to 91 V; ESD Rating of Class 3 (>16 KV) per Human Body Model; DO-41 (DO-204AL) Package; Double Slug Type Construction; Metallurgical Bonded Construction; Oxide Passivated Die Mechanical Characteristics:; CASE: Double slug type, hermetically sealed glass; FINISH: All external surfaces are corrosion resistant and leads are readily solderable; MAXIMUM LEAD TEMPERATURE FOR SOLDERING PURPOSES: 230C, 1/16" from the case for 10 seconds; POLARITY: Cathode indicated by polarity band; MOU
+K
+F https://www.onsemi.com/pub/Collateral/1N4736AT-D.PDF
+$ENDCMP
+#
+$CMP HP0315AFKP2-R
+D Tactile Switches SPST OFF-(ON) 3VA BLK FLAT BUTTON SMT
+K
+F https://www.nkkswitches.com/pdf/HP03-2.pdf
+$ENDCMP
+#
+$CMP B57364S0409M000
+D NTC Inrush Current Limiters, Resistance (at 25)=4, Maximum Current=9.5A
+K
+F https://product.tdk.com/system/files/dam/doc/product/protection/current/ntc-limiter/data_sheet/50/db/icl_16/s364.pdf
+$ENDCMP
+#
+$CMP SL0310001
+D Inrush Current Limiters 3mm 10ohms 1A INRSH CURR LIMITER
+K
+F https://www.ametherm.com/datasheetspdf/SL0310001.pdf
+$ENDCMP
+#
+$CMP MOV-10D361KKTR
+D 10mm Radial Disc MOV - Kinked Leads, T&R
+K
+F https://www.bourns.com/docs/product-datasheets/mov10d.pdf
+$ENDCMP
+#
+$CMP B32653A0104J000
+D Metallized Polypropylene Capacitors (MKP/MFP), 0.1uF, 1000V DC, 8.5mm(W) x 16.5mm(H) x 26.5mm(L)
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/film/mkp_mfp/data_sheet/20/20/db/fc_2009/mkp_b32651_658.pdf
+$ENDCMP
+#
+$CMP B43630A5108M000
+D EPCOS - B43630A5108M000 - CAP, 1000F, 450V, ALU ELEC, SNAP-IN
+K
+F https://www.mouser.com/datasheet/2/400/B43630-1528053.pdf
+$ENDCMP
+#
+$CMP STGSH80HB65DAG
+D Automotive-grade ACEPACK SMIT half-bridge topology 650 V, 80 A HB series IGBT with diode
+K
+F https://www.st.com/resource/en/datasheet/stgsh80hb65dag.pdf
+$ENDCMP
+#
+$CMP ECW-FD2W225K
+D Cap Film 2.2uF 450V PP 10% (17.5 X 11.1 X 14.3mm) Radial 15mm 110C Bulk
+K
+F https://componentsearchengine.com/Datasheets/2/ECW-FD2W225K.pdf
+$ENDCMP
+#
+$CMP LTO100FR5000FTE3
+D Thick Film Resistors - Through Hole 100W 500 mOhms 1% TO-247
+K
+F https://www.vishay.com/docs/50051/lto100.pdf
+$ENDCMP
+#
+$CMP MP915-500-1%
+D RES 500 OHM 15W 1% TO126
+K
+F http://www.caddock.com/Online_catalog/Mrktg_Lit/MP9000_Series.pdf
+$ENDCMP
+#
+$CMP SCT29XV-050-1R0A044JH
+D Common Mode Chokes / Filters 1000V 6.47mH 5A ESR= 39.9mOhms AECQ200
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/SCT29XV-050-1R0A044JH
+$ENDCMP
+#
+$CMP SCT29XV-050-1R0A044JV
+D Common Mode Chokes / Filters 1000V 6.47mH 5A ESR= 40.3mOhms AECQ200
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/SCT29XV-050-1R0A044JV.pdf
+$ENDCMP
+#
+$CMP IHXL1500VZEB3R3M51
+D Fixed Inductors 3.3uH 20%
+K
+F https://www.vishay.com/doc?34561
+$ENDCMP
+#
+$CMP STGYA50M120DF3
+D Trench gate field-stop, 1200 V, 50 A, low-loss M series IGBT in a Max247 long leads package
+K
+F https://www.st.com/resource/en/datasheet/stgya50m120df3.pdf
+$ENDCMP
+#
+$CMP 657-15ABPE
+D Heat Sinks High Performance Heat Sink for Vertical Board Mounting for TO-220, TO-227, TO-218, 63.5mm Height
+K
+F http://www.wakefield-vette.com/Portals/0/resources/datasheets/657.pdf
+$ENDCMP
+#
+$CMP MP930-50.0-1%
+D Caddock MP930 Series TO-220 Radial Fixed Resistor 50 +/-1% 30W -20  +80ppm/C
+K
+F https://www.mouser.in/datasheet/2/62/MP9000_Series-1052.pdf
+$ENDCMP
+#
 #End Doc Library

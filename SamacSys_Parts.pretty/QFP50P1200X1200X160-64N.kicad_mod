@@ -89,7 +89,7 @@
   (pad 62 smd rect (at -2.75 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd rect (at -3.25 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 64 smd rect (at -3.75 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\sdsystem-20250303\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\STM32F103RCT6.stp"
+  (model "C:\\Users\\sdsystem-20250303\\Documents\\GitHub\\KiCAD_Libraries\\SamacSys_Parts.3dshapes\\STM32G474RBT3.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

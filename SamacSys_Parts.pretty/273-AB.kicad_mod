@@ -1,0 +1,177 @@
+(footprint "273-AB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "S**"
+		(at -0.275 1.325 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a830c9e0-b4df-4ffa-b375-074fa309a420")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "273-AB"
+		(at -0.15 4.625 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ba4b0fbf-5521-42c3-aeaa-33c2dbf089e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.kr/datasheet/3/264/1/Wakefield-Thermal-Board-Level-Data-Sheet.pdf"
+		(at -0.15 3.625 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3be0c31a-2172-4a63-afa8-008c660a00ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "HeatSink TO-220 7.2C/W"
+		(at -0.15 3.625 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84d47ec1-2df7-4073-bf76-a0874e06032f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.55 -9.5)
+		(end -8.25 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "32e93991-6778-40ae-8f7c-55c555990388")
+	)
+	(fp_line
+		(start -9.55 0)
+		(end -9.55 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3363e8c2-42b6-4300-b433-13ff90118d59")
+	)
+	(fp_line
+		(start -8.25 -9.5)
+		(end -8.25 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5ee9b148-1777-40b4-946c-ffc53c457f85")
+	)
+	(fp_line
+		(start -8.25 -1.3)
+		(end 8.25 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dc387a30-e177-497d-859b-1d87eb935af6")
+	)
+	(fp_line
+		(start 8.25 -9.5)
+		(end 9.55 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d0e59437-b71b-400f-a0b2-a3c4c4d097e8")
+	)
+	(fp_line
+		(start 8.25 -1.3)
+		(end 8.25 -9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "29bb4c6b-453a-49ce-a2c8-271c12ca1b57")
+	)
+	(fp_line
+		(start 9.55 -9.5)
+		(end 9.55 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "64a40f11-33b3-4a93-bb47-28573e72f43b")
+	)
+	(fp_line
+		(start 9.55 0)
+		(end -9.55 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f3e321f3-d8fd-4d28-800e-34d34e0f8874")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.1 3.325 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9b34a84b-e459-47c2-bb50-20fd4de664a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect roundrect
+		(at -8.25 -1.3)
+		(size 1 1)
+		(layers "*.Mask" "B.Cu")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "1332c229-b17b-47f3-bf99-6709802329b4")
+	)
+	(pad "2" connect roundrect
+		(at 8.25 -1.3)
+		(size 1 1)
+		(layers "*.Mask" "B.Cu")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "f5dd084c-8be8-4040-b28f-84c5d90c7470")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/sdsystem-20250303/Downloads/273-AB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
